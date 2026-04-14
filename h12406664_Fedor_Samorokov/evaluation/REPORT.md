@@ -110,13 +110,13 @@ All metrics are computed against ground-truth answers from the Austrian Tax Law 
 
 | Model | Exact Match | BLEU-4 | ROUGE-1 | ROUGE-2 | ROUGE-L | BERTScore F1 |
 |---|---|---|---|---|---|---|
-| Model 1 (Baseline GPT-2) | 0.0000 | 0.0046 | 0.1127 | 0.0164 | 0.0807 | 0.6294 |
-| Model 2 (Fine-tuned GPT-2) | 0.0000 | 0.0038 | 0.1280 | 0.0130 | 0.0666 | 0.6544 |
-| **Model 3 (RAG + GPT-4o-mini)** | **0.0000** | **0.0476** | **0.2935** | **0.1135** | **0.2026** | **0.7336** |
+| Model 1 (Baseline GPT-2) | 0.0000 | 0.0048 | 0.1136 | 0.0170 | 0.0813 | 0.6294 |
+| Model 2 (Fine-tuned GPT-2) | 0.0000 | 0.0037 | 0.1248 | 0.0123 | 0.0652 | 0.6533 |
+| **Model 3 (RAG + GPT-4o-mini)** | **0.0000** | **0.0518** | **0.3078** | **0.1233** | **0.2156** | **0.7395** |
 
 Model 3 (RAG) outperforms both other models across all metrics, as expected — it has access to the actual law texts at query time and uses GPT-4o-mini for generation. Models 1 and 2 rely solely on what `dbmdz/german-gpt2` learned during pre-training / fine-tuning.
 
-Notably, Model 2 scores slightly lower than Model 1 on BLEU-4 (0.0038 vs 0.0046) and ROUGE-L (0.0666 vs 0.0807), despite fine-tuning. Fine-tuning on 152 examples shifted the model's vocabulary toward tax-related terms, but also caused it to hallucinate confident-sounding legal text that diverges from the ground-truth wording — hurting precision-based metrics. Model 2 does improve on ROUGE-1 and BERTScore, suggesting it picks up some topical relevance from fine-tuning even though surface-level precision degrades.
+Notably, Model 2 scores slightly lower than Model 1 on BLEU-4 (0.0037 vs 0.0048) and ROUGE-L (0.0652 vs 0.0813), despite fine-tuning. Fine-tuning on 152 examples shifted the model's vocabulary toward tax-related terms, but also caused it to hallucinate confident-sounding legal text that diverges from the ground-truth wording — hurting precision-based metrics. Model 2 does improve on ROUGE-1 and BERTScore, suggesting it picks up some topical relevance from fine-tuning even though surface-level precision degrades.
 
 ---
 
