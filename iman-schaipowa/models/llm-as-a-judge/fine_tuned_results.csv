@@ -1,0 +1,644 @@
+id;answer
+CORP-TAX-001;Die Bemessungsgrundlage ist das Einkommen oder der Gewinn nach den Vorschriften des § 7 KStG (§ 1 Abs. 1 KStG).
+CORP-TAX-002;Das kann als steuerbarer Leistungsaustausch qualifiziert werden und zur Einkommenssteuer herangezogen werden (§ 7 Abs. 2 KStG).
+CORP-TAX-003;Gruppenmitglieder sind verpflichtet, sämtliche Einkünfte den Einkünften aus Gewerbebetrieb zuzurechnen (§ 9 Abs. 4 KStG).
+CORP-TAX-004;Eine Dividende ist als sonstiger steuerbarer Einkünfte auszugeben (§ 22 EStG).
+CORP-TAX-005;Eine offene Ausschüttung wird dem Begünstigten steuerbilanziert, während eine verdeckte Ausschüttung steuerneutral ist (§ 10 KStG).
+CORP-TAX-006;Der Verlustabzug beträgt grundsätzlich bis zu 2 % des Jahresumsatzes (§ 10 EStG). Für bestimmte Betriebe gelten Sonderregelungen (§ 10 Abs. 3 EStG).
+CORP-TAX-007;Ein Mantelkauf liegt bei der Übertragung eines Betriebes ohne ausdrückliche Abgabepflichtverpflichtung vor (§ 6 Abs. 2 UStG).
+CORP-TAX-008;Ein Forderungsverzicht kann steuerlich bedeutsame Auswirkungen haben, da dies als Sonderausgaben abzugsfähig sein kann (§ 18 Abs. 1 Z 2 EStG).
+CORP-TAX-009;Bei ausländischen Gruppenmitgliedern ist die Verlustverrechnung nur unter bestimmten Voraussetzungen zulässig (§ 10 Abs. 3 KStG).
+CORP-TAX-010;Nein, innergruppentreibende Leistungen sind steuerfrei (§ 6 Abs. 1 Z 1 UStG).
+CORP-TAX-011;Ja, solange die Voraussetzungen erfüllt sind, sind Abschreibungen auf den niedrigeren Teilwert abzugsfähig (§ 10 Abs. 3 EStG).
+CORP-TAX-012;Eine Dividende kann steuerfrei sein, wenn die Voraussetzungen des § 10 KStG erfüllt sind (§ 10 Abs. 1 KStG).
+CORP-TAX-013;§ 10 KStG kann auf Gruppen mit Sitz im EU/AEVR-Raum oder mit Beteiligung ausländischer Gruppen anwendbar sein (§ 10 Abs. 2 KStG). § 12 Abs. 1 Z 10 KStG kann auf Gruppen mit Sitz im EU/AEVR-Raum anwendbar sein (§ 12 Abs. 2 KStG).
+CORP-TAX-014;Für eine internationale Schachtelbeteiligung müssen mindestens 10 % des Grundkapitals an einem ausländischen Unternehmen gehalten werden (§ 10 Abs. 2 KStG).
+CORP-TAX-015;Veräußerungsgewinne aus internationalen Schachtelbeteiligungen zählen grundsätzlich nicht zum steuerpflichtigen Einkommen (§ 10 Abs. 2 KStG).
+CORP-TAX-016;Nein, da die Beteiligung nicht unternehmerisch genutzt wird, ist der Zinsausgaben keine betriebliche Einnahme (§ 18 Abs. 1 Z 2 EStG).
+CORP-TAX-017;§ 11 KStG regelt den allgemeinen Betriebsausgabenabzug, während § 12 KStG bestimmte Sonderausgaben wie Versicherungsprämien betrachtet (§ 11 KStG gegenüber § 12 KStG: allgemeiner gegenüber speziellem Regelungsinhalt, § 11 KStG: allgemeiner, § 12 KStG: spezieller, § 11 KStG: allgemeine Voraussetzungen, § 12 KStG: besondere Voraussetzungen, § 11 KStG: allgemeine Begünstigung, § 12 KStG: besondere
+CORP-TAX-018;Freiwillige Spenden an begünstigte Organisationen sind grundsätzlich als Sonderausgaben abzugsfähig (§ 18 Abs. 1 Z 7 EStG).
+CORP-TAX-019;### (a) EU-Geldbußen zählen nicht zu den Sonderausgaben, da sie nicht aufgebracht werden (§ 18 Abs. 1 Z 1 EStG). ### (b) Spenden an begünstigte Empfänger sind bis zu einem gesetzlich festgelegten Höchstbetrag abzugsfähig (§ 18 Abs. 1 Z 3 EStG). ### (c) Aufsichtsratsvergütungen sind nur unter bestimmten Voraussetzungen als Sonderausgaben abzugsfähig (§ 18 Abs. 2 EStG). ### (d) Lizenzgebühren an konzern
+CORP-TAX-020;Lizenzgebühren sind nicht abzugsfähig, wenn die Nutzung dem steuerpflichtigen Unternehmen vorsteuerbarer Leistungen dient (§ 12 Abs. 2 KStG).
+CORP-TAX-021;Der Gewinn ergibt sich nach den Vorschriften des § 7 EStG (§ 7 Abs. 1 KStG).
+CORP-TAX-022;Die Prüfung umfasst insbesondere die Beteiligungshöhe, die Gruppenzugehörigkeit und die Steuerpflicht des Körpers (§ 7 KStG).
+CORP-TAX-023;Bei positiven Jahren ist die Körperschaftsteuerpflicht grundsätzlich gegeben (§ 7 KStG).
+CORP-TAX-024;Der Gewinn ergibt sich regelmäßig jährlich nach dem Gesamtbetragverfahren (§ 10 EStG). Eine andere Beteiligung kann unter bestimmten Voraussetzungen zugelassen werden (§ 12 EStG).
+CORP-TAX-025;Einlagen und Beiträge zählen zum Einbringungsvermögen und werden steuerlich berücksichtigt (§ 6 Abs. 3 KStG).
+CORP-TAX-026;Der Verlustabzug ist unbeschränkt, wenn die Einkünfte des Vorjahres positiv sind (§ 8 Abs. 4 Z 2 lit. b KStG).
+CORP-TAX-027;Eine finanzielle Verbindung liegt bei einer Beteiligung von mehr als 50 % der Stimmrechte und des Kapitals vor (§ 9 KStG).
+CORP-TAX-028;Die finanzielle Verbindung muss mindestens sechs Monate lang bestehen (§ 9 Abs. 4 KStG).
+CORP-TAX-029;Ja, Vorgruppenverluste können mit dem Gruppengewinn verrechnet werden, sofern die Voraussetzungen erfüllt sind (§ 9 Abs. 6 KStG).
+CORP-TAX-030;Für die Gruppenzugehörigkeit muss eine ausreichende Beteiligung bestehen (§ 9 Abs. 4 KStG).
+CORP-TAX-031;Vorgruppenverluste sind Verluste von Gruppenmitgliedern, die dem Gruppenträger zugerechnet werden (§ 9 Abs. 6 KStG). Sie werden dem Gruppenträger zugerechnet, sofern die Voraussetzungen erfüllt sind (§ 9 Abs. 5 KStG).
+CORP-TAX-032;Bei einem ausländischen Gruppenmitglied kann die Verlustverrechnung nur bis zur Höhe des Einkommens erfolgen (§ 9 Abs. 6 KStG).
+CORP-TAX-033;Nein, die Einjahresfrist gilt nur für Neubeteiligungen (§ 10 Abs. 2 KStG).
+CORP-TAX-034;Die Bewertung richtet sich nach den Vorschriften des Bewertungsgesetzes und den internationalen Übereinkünften (§ 7 Abs. 2 KStG).
+CORP-TAX-035;Ja, eine Beteiligung von mindestens 8 % qualifiziert für die Begünstigung (§ 10 Abs. 2 KStG). Die Dividende ist unter bestimmten Voraussetzungen steuerfrei (§ 10 Abs. 1 KStG).
+CORP-TAX-036;Die Option kann zur Steuerwirksamkeit führen, wenn die Voraussetzungen erfüllt sind (§ 13 Abs. 3 KStG).
+CORP-TAX-037;Gewinnanteile sind steuerpflichtig, wenn die Schachtelbeteiligung mehr als 50 % beträgt und das ausländische Unternehmen unterliegt einer Körperschaftsteuerpflicht (§ 10 Abs. 2 KStG).
+CORP-TAX-038;Körperschaftsspezifische Aufwendungen sind insbesondere Gebühren und Stempelgebühren (§ 11 KStG).
+CORP-TAX-039;Bestimmte Steuern wie Körperschaftsteuer und Stempelgebühren sind nicht als Betriebsausgaben abzugsfähig (§ 12 KStG).
+CORP-TAX-040;Die Zinsermittlung ist nur zulässig, wenn die Beteiligung nicht ausschließlich unternehmerisch genutzt wird (§ 10 Abs. 2 KStG).
+CORP-TAX-041;Der Gewinn wird grundsätzlich im Jahr der Bilanzierung festgestellt (§ 7 Abs. 2 KStG).
+CORP-TAX-042;Das Einkommen ergibt sich aus dem Gesamtbetrag der Einkünfte nach Abzug von Sonderausgaben und Verlusten (§ 7 Abs. 2 KStG). Beteiligungserträge und Einnahmen aus bestimmten sonstigen Einkünften zählen nicht zum Einkommen (§ 7 Abs. 3 KStG).
+CORP-TAX-043;Die §§ 7–12 KStG regeln die Überleitung vom Handelsbilanzgewinn zum steuerpflichtigen Einkommen und sind bei der Bewertung von Vermögen und Einkünften relevant (§ 7 KStG).
+CORP-TAX-044;Die Art der Einkommensverwendung kann relevant sein, da bestimmte Einkünfte nur unter bestimmten Voraussetzungen zulässig sind (§ 8 Abs. 1 KStG).
+CORP-TAX-045;Ja, da die Körperschaft besteuert wird nach dem Prinzip der Einkommensteuer (§ 7 KStG), gelten die Vorschriften des § 10 EStG sinngemäß (§ 9 KStG).
+CORP-TAX-046;Ein Mantelkauf ist die Übertragung eines Betriebes oder Mitunternehmeranteils gegen Zahlung eines Betrages an den Gruppenträger (§ 8 KStG). Beim Ausscheiden aus einer Gruppe kann ein Verlustvortrag verloren gehen, wenn die Voraussetzungen nicht erfüllt sind (§ 9 KStG).
+CORP-TAX-047;Eine Körperschaft kann ihre Verluste nur bis zur Höhe des Gewinns fortführen, wenn sie die gesetzlichen Voraussetzungen erfüllt (§ 10 Abs. 2 KStG). Eine Ausnahme gilt bei bestimmten Umgründungen (§ 13 UmgrStG).
+CORP-TAX-048;Rückvergütungen an Mitglieder gelten als Einkommensverwendung, sofern die Voraussetzungen erfüllt sind (§ 10 Abs. 2 KStG).
+CORP-TAX-049;Bei Ausscheiden kann die Gruppenzugehörigkeit bis zu zehn Jahren zurückdatiert werden, sofern die Voraussetzungen erfüllt sind (§ 9 Abs. 10 KStG).
+CORP-TAX-050;Die Gruppenbesteuerung ermöglicht eine Zusammenfassung der Einkünfte der Gruppenmitglieder zur Ermittlung des Gruppenträgerschaftsbesteuersatzes (§ 9 Abs. 3 KStG).
+CORP-TAX-051;Für eine solche Gruppe gelten die Voraussetzungen und Regelungen der §§ 7–12 KStG (§ 7 KStG).
+CORP-TAX-052;Ja, eine Beteiligungsgemeinschaft kann als Gruppenträger fungieren, sofern die gesetzlichen Voraussetzungen erfüllt sind (§ 9 Abs. 4 KStG). Die Beteiligungen der Gruppenmitglieder müssen mindestens 50 % betragen (§ 9 Abs. 4 KStG).
+CORP-TAX-053;Eine Mindestbeteiligungsquote oder Haltefrist besteht grundsätzlich nicht (§ 10 KStG).
+CORP-TAX-054;Die Option zur Steuerwirksamkeit ermöglicht die Steuerpflicht bei bestimmten Umgründungen, obwohl die Voraussetzungen für steuerliche NeuFassung nicht erfüllt sind (§ 13 UmgrStG). Sie wird durch schriftliche Erklärung gegenüber der Behörde ausgeübt (§ 13 Abs. 2 UmgrStG).
+CORP-TAX-055;Eine Sitzverlegung kann zu einer Umgründung im Sinne des UmgrStG führen und damit zu einer Neubewertung der stillen Reserven (§ 2 Abs. 1 UmgrStG).
+CORP-TAX-056;Bei einem konzernfremden Verkäufer zählen die Zinsen als Sonderausgaben (§ 18 Abs. 1 Z 2 EStG). Bei einem konzerninternen Verkauf sind die Zinsen als Betriebsausgaben abzugsfähig (§ 18 Abs. 2 EStG).
+CORP-TAX-057;Bei nur teilweiser Steuerpflicht ist der Abzug nur insoweit zulässig, als die Einkünfte dem steuerpflichtigen Bereich zugeordnet werden (§ 18 Abs. 3 KStG).
+CORP-TAX-058;Bei einer Körperschaft gelten bestimmte Einkünfte als steuerfrei (§ 7 KStG).
+CORP-TAX-059;Nein, Strafen sind nicht als Sonderausgaben abzugsfähig, da sie nicht mit der Beteiligung an der Körperschaft verbunden sind (§ 18 Abs. 1 Z 2 EStG).
+CORP-TAX-060;Aufsichtsratsvergütungen zählen zu den Einnahmen aus sonstigen Quellen und sind steuerpflichtig (§ 22 Abs. 1 Z 5 EStG).
+TAX-INTL-001;Nein, da keine tatsächliche Wohnsitzverlegung vorliegt, ist die Steuerpflicht nach den allgemeinen Regeln begrenzt (§ 7 Abs. 2 EStG).
+TAX-INTL-002;Nein, da keine sonstigen steuerlichen Verbindungsfaktoren vorliegen, ist der Investor nur im Inland steuerpflichtig (§ 22 Abs. 2 EStG).
+TAX-INTL-003;Ja, dies kann zu einer unbeschränkten Steuerpflicht führen, wenn die Beteiligung an der ausländischen Körperschaft langfristig ist (§ 22 KStG).
+TAX-INTL-004;Nein, eine Zweitwohnung kann nur zur unbeschränkten Steuerpflicht führen, wenn die Beteiligung an der Liegenschaft regelmäßig und dauernd besteht (§ 2 Abs. 2 EStG).
+TAX-INTL-005;Ja, sofern die tatsächlichen Lebensverhältnisse in Österreich fortbestehen, behält er einen inländischen Wohnsitz (§ 1 Abs. 2 EStG).
+TAX-INTL-006;Nein, da keine tatsächliche Nutzung erfolgt, liegt kein Wohnsitz vor (§ 1 EStG).
+TAX-INTL-007;Nein, ein Wohnsitz kann nur an einem bestimmten Ort begründet werden (§ 1 EStG).
+TAX-INTL-008;Nein, da die Studentin nur gelegentlich in Österreich wohnt, behält sie einen ausländischen Wohnsitz (§ 1 Abs. 2 EStG).
+TAX-INTL-009;Nein, da der Arbeitnehmer keine bleibende Verbindung zu Österreich aufbaut, liegt kein gewöhnlicher Aufenthalt vor (§ 3 Abs. 2 EStG).
+TAX-INTL-010;Ja, wenn die Nähe des Wohnorts zum Arbeitsort und die regelmäßige Übernachtung am Arbeitsort die tatsächliche Betriebsabwicklung ermöglichen, kann ein gewöhnlicher Aufenthalt begründet sein (§ 8 Abs. 1 EStG).
+TAX-INTL-011;Nein, sofern die Beteiligung am Wirtschaftsleben fortbesteht, liegt ein fortbestehender steuerlicher Wohnsitz vor (§ 1 Abs. 2 EStG).
+TAX-INTL-012;Nein, das Zuzugsjahr wird im Wege der Einbeziehung in den Steuerpflichtsraum des Empfängerstaates behandelt (§ 22 Abs. 3 EStG).
+TAX-INTL-013;Nein, der steuerliche Zusammenhang liegt beim Zeitpunkt der Leistungserbringung (§ 6 Abs. 2 EStG).
+TAX-INTL-014;Nein, da die Einkünfte vor dem Zuzug entstanden sind, sind sie grundsätzlich nicht steuerpflichtig (§ 22 Abs. 1 EStG).
+TAX-INTL-015;Ja, eine Änderung des steuerlichen Ansass kann unter bestimmten Voraussetzungen zu einer NeuFestsetzung der Steuer führen (§ 22 Abs. 2 EStG).
+TAX-INTL-016;Ja, wenn die Voraussetzungen erfüllt sind, kann unbeschränkte Steuerpflicht zustehen (§ 1 Abs. 2 EStG).
+TAX-INTL-017;Ja, wenn die Tätigkeit mindestens drei Monate dauert, liegt ein gewöhnlicher Aufenthalt vor (§ 6 Abs. 2 Z 1 AufenthaltsRL).
+TAX-INTL-018;Die unbeschränkte Steuerpflicht kann auch bei Überschreitung der sechsmonatigen Frist eintreten (§ 22 Abs. 2 EStG).
+TAX-INTL-019;Ja, da er tatsächlich in Österreich ansässig wird, ist er ab Beginn des Anwesenheitszeitraums unbeschränkt steuerpflichtig (§ 1 Abs. 2 EStG).
+TAX-INTL-020;Ja, die Steuerpflicht endet, wenn die Voraussetzungen für die Befreiung erfüllt sind (§ 12 Abs. 3 EStG).
+TAX-INTL-021;Ja, er kann auf Antrag als unbeschränkt Steuerpflichtiger behandelt werden, sofern die Voraussetzungen erfüllt sind (§ 18 Abs. 2 EStG).
+TAX-INTL-022;Ja, da die Voraussetzungen des § 1 Abs. 4 EStG 1988 erfüllt sind, ist sie zur Steuerpflicht verpflichtet (§ 1 Abs. 4 EStG 1988).
+TAX-INTL-023;Nein, die Zugehörigkeit zu einem Staat kann keine unzulässige Begünstigung sein, sofern die Voraussetzungen erfüllt sind (§ 1 Abs. 4 EStG 1988).
+TAX-INTL-024;Die Höhe der Einkünfte muss mit ausreichender Punktgenauigkeit angegeben werden (§ 115 BAO).
+TAX-INTL-025;Nein, die Steuerpflicht beschränkt sich grundsätzlich auf das Einkommen aus im Inland gelegenen Stammvermögen (§ 22 Abs. 2 EStG).
+TAX-INTL-026;Ja, wenn die Voraussetzungen erfüllt sind, können beschränkt Steuerpflichtige bestimmte Steuerabsetzbeträge in Anspruch nehmen (§ 33 Abs. 4 Z 1 EStG).
+TAX-INTL-027;Nein, Sonderausgaben sind grundsätzlich abzugsfähig, wenn sie im In- oder Ausland entstehen (§ 18 Abs. 1 Z 1 EStG).
+TAX-INTL-028;Nein, das Einkommen wird ohne Zuschlag bestimmt (§ 7 Abs. 2 KStG).
+TAX-INTL-029;Nein, die Begünstigungen gelten nur für unbeschränkt Steuerpflichtige (§ 34 Abs. 1 EStG 1988 und § 35 Abs. 1 EStG 1988).
+TAX-INTL-030;Ja, dies kann zu einer Veranlagung führen, da die Voraussetzungen des § 102 EStG 1988 erfüllt sind (§ 102 Abs. 1 EStG 1988).
+TAX-INTL-031;Ja, bei Vorliegen der gesetzlichen Voraussetzungen ist eine Veranlagung zulässig (§ 26 Abs. 3 EStG).
+TAX-INTL-032;Ja, das ist möglich, wenn das zuständige Finanzamt die Steuer nach freiem Ermessen festsetzt (§ 22 Abs. 3 EStG 1988).
+TAX-INTL-033;Nein, für beschränkt Steuerpflichtige gelten abweichende Regeln, insbesondere für den Alleinverdienerabsetzbetrag (§ 33 Abs. 4 Z 1 EStG).
+TAX-INTL-034;Ja, der Arbeitgeber kann unter bestimmten Voraussetzungen Vorsteuer abziehen, wenn die Leistung unmittelbar im Zusammenhang mit der unternehmerischen Tätigkeit steht (§ 12 Abs. 2 UStG).
+TAX-INTL-035;Nein, die Steuerpflicht entfällt grundsätzlich mit Ablauf des Jahres der Verlust des Wohnsitzes (§ 22 Abs. 3 EStG).
+TAX-INTL-036;Bei grenzüberschreitenden Leistungen ist die Anwendung eines DBA unter bestimmten Voraussetzungen zulässig (§ 6 Abs. 1 Z 1 DStG).
+TAX-INTL-037;Ja, ein DBA kann dazu beitragen, eine mehrfache Besteuerung zu vermeiden, da die Einkünfte im Inland steuerpflichtig sind (§ 10 Abs. 1 EStG).
+TAX-INTL-038;Die Befreiungsmethode setzt eine ausreichende Verbindung des Einkommens mit dem Stammhaus voraus und führt zu einer vollständigen Steuerbefreiung (§ 10 Abs. 3 KStG).
+TAX-INTL-039;Bei Anwendung der Anrechnungsmethode werden bestimmte Steuerbeträge aus dem Ausland anerkannt (§ 18 Abs. 2 EStG).
+TAX-INTL-040;Nein, bei Vorliegen bestimmter Voraussetzungen kann die Steuer nach dem Steuerabkommen ermittelt werden (§ 18 Abs. 3 EStG).
+TAX-INTL-041;Nein, die Einkünfte sind nach den Vorschriften des ausländischen Steuerrechts zu ermitteln, soweit dies günstiger ist (§ 18 Abs. 3 EStG).
+TAX-INTL-042;Nein, ein unbeschränkt Steuerpflichtiger ist nur zur Abgabepflicht für Einkünfte heranzuziehen, die im Inland entstehen (§ 1 Abs. 2 EStG).
+TAX-INTL-043;Ein DBA kann eine nach innerstaatlichem Recht bestehende Steuerpflicht einschränken, sofern dies mit dem Abkommen vereinbart ist (§ 1 Abs. 2 DBA).
+TAX-INTL-044;Ja, bei DBA-Fällen kann die wirtschaftliche Zuordnung maßgeblich sein, sofern dies zur Einkünftezuerziehung erforderlich ist (§ 12 Abs. 3 KStG).
+TAX-INTL-045;Nein, ein Steuerpflichtiger kann nur ein Steuerpflichtsgebiet haben (§ 1 Abs. 2 EStG).
+TAX-INTL-046;Nein, Einkünfte, die nach § 98 EStG 1988 nicht steuerpflichtig sind, sind von der Steuer befreit (§ 22 Abs. 1 EStG 1988).
+TAX-INTL-047;Nein, die Befreiung kann nur für bestimmte Einkunftsarten in Anspruch genommen werden (§ 6 Abs. 2 EStG).
+TAX-INTL-048;Nein, die ausländische Steuer kann nur bis zur Höhe der österreichischen Steuer abgezogen werden (§ 18 Abs. 3 EStG).
+TAX-INTL-049;Nein, dies ist nicht zwingend, da die Steuerpflicht auch an der tatsächlichen Leistungsortverbindung gebunden sein kann (§ 3 Abs. 2a KStG).
+TAX-INTL-050;Nein, eine solche Begründung ist unzureichend, da das innerstaatliche Recht Voraussetzung für die Steuerpflicht ist (§ 1 Abs. 1 EStG).
+TAX-INTL-051;Ja, die Leistungen unterliegen der Steuerpflicht nach den allgemeinen Vorschriften, da keine ausländische Betriebsstätte besteht (§ 3 Abs. 2 Z 1 EStG).
+TAX-INTL-052;Ja, wenn die Leistung unmittelbar zur Erfüllung eines bestimmten wirtschaftlichen Zwecks im Inland erbracht wird, kann die Tätigkeit als verwertet gelten (§ 3 Abs. 2 UStG).
+TAX-INTL-053;Nein, eine Betriebsstätte kann auch im Ausland liegen, sofern die Voraussetzungen erfüllt sind (§ 3 Abs. 2 EStG).
+TAX-INTL-054;Ja, da eine Betriebsstätte besteht, unterliegen die Einkünfte der beschränkten Steuerpflicht (§ 3 Abs. 2 Z 1 EStG).
+TAX-INTL-055;Ja, das ist möglich, wenn der Vertreter zur Verbindung mit dem Unternehmen bestimmt ist (§ 3 Abs. 2 EStG).
+TAX-INTL-056;Ja, da der steuerliche Sachgesamtsverband im Inland liegt, liegt eine Steuerpflicht vor (§ 3 Abs. 2 UmgrStG).
+TAX-INTL-057;Nein, da keine betriebliche Verbindung besteht, sind die Einkünfte grundsätzlich steuerfrei (§ 3 Abs. 1 Z 1 EStG).
+TAX-INTL-058;Ja, da eine sonstige Leistung erbracht wird, entsteht beschränkte Steuerpflicht (§ 3 Abs. 2 Z 1 UStG).
+TAX-INTL-059;Nein, da keine Betriebsstätte besteht, unterliegen die Einkünfte nur begrenzt der Körperschaftsteuerpflicht (§ 6 Abs. 2 Z 1 KStG).
+TAX-INTL-060;Ja, wenn die Arbeit im Zusammenhang mit dem Betrieb eines Unternehmens steht und die Voraussetzungen erfüllt sind, können die Einkünfte in Österreich steuerpflichtig sein (§ 3 Abs. 2 EStG).
+TAX-INTL-061;Ja, Einkünfte aus sonstiger selbständiger Arbeit können dem § 98 EStG 1988 unterliegen (§ 2 Abs. 2 EStG 1988).
+TAX-INTL-062;Nein, da keine betriebliche Tätigkeit vorliegt, ist die Einkünfteversteuerung ausgeschlossen (§ 22 Abs. 2 EStG).
+TAX-INTL-063;Nein, da der Steuerpflichtsgrund nicht gegeben ist, ist der Veräußerungsgewinn steuerfrei (§ 6 Abs. 1 Z 1 EStG).
+TAX-INTL-064;Ja, die Einkünfte sind gemäß Artikel 7 Abs. 1 OECD-Modellvertrag in Österreich steuerpflichtig, da die Einkünfte im Ausland erzielt werden (§ 22 Abs. 2 EStG).
+TAX-INTL-065;Ja, da die Rechte im Inland verwirklicht werden, kann der Steuerpflicht unter bestimmten Voraussetzungen zugestimmt werden (§ 98 Abs. 1 Z 6 EStG 1988).
+TAX-INTL-066;Ja, wenn die Voraussetzungen erfüllt sind, können österreichische Einkünfte in Österreich beschränkt steuerpflichtig sein (§ 22 Abs. 2 EStG).
+TAX-INTL-067;Voraussetzung ist, dass die Schuld aus einem inländischen Rechtsverhältnis herrührt (§ 98 Abs. 1 Z 5 lit. b EStG).
+TAX-INTL-068;Nein, da die Kapitalerträge Einkünfte im Sinne des § 2 EStG darstellen, unterliegen sie grundsätzlich der allgemeinen Einkommensteuerpflicht (§ 22 EStG).
+TAX-INTL-069;Ja, da eine steuerliche Verbindung besteht, ist die Pension steuerpflichtig (§ 22 Abs. 2 EStG).
+TAX-INTL-070;Ja, das ist möglich, wenn bestimmte Voraussetzungen erfüllt sind (§ 22 Abs. 2 EStG).
+TAX-INTL-071;Ein Arbeitnehmer ist beschränkt steuerpflichtig, wenn seine Einnahmen aus einer sonstigen betrieblichen Tätigkeit mindestens 80 % seiner Gesamteinnahmen ausmachen (§ 7 Abs. 2 EStG).
+TAX-INTL-072;Ja, das ist möglich, sofern die Voraussetzungen erfüllt sind (§ 33 Abs. 4 Z 1 EStG).
+TAX-INTL-073;Ja, da der Vortragende eine unternehmerische Tätigkeit ausübt, ist der 20%-Satz anzuwenden (§ 22 Abs. 2 EStG).
+TAX-INTL-074;Nein, das ist nur bei unbeschränkter Steuerpflicht zulässig (§ 18 Abs. 3 EStG).
+TAX-INTL-075;Nein, der Verlustabzug gilt grundsätzlich auch für Verluste aus bestimmten ausländischen Quellen (§ 10 Abs. 3 EStG).
+TAX-INTL-076;Nein, die Progressionsermäßigung kann auch bei beschränkter Steuerpflicht in Anspruch genommen werden (§ 10 Abs. 3 KStG).
+TAX-INTL-077;Ja, unter bestimmten Voraussetzungen kann ein aus dem Ausland zuziehender Spitzenforscher eine Zuzugsbegünstigung in Anspruch nehmen (§ 10 Abs. 2 Z 1 EStG).
+TAX-INTL-078;Ja, wenn die Voraussetzungen erfüllt sind, kann ein nach Österreich zuziehender Wissenschaftler einen befristeten Zuzugsfreibetrag in Anspruch nehmen (§ 10 Abs. 2 Z 1 EStG).
+TAX-INTL-079;Nein, die Verlagerung des Mittelpunktes der Lebensinteressen kann ausreichen (§ 2 Abs. 1 Z 1 EStR).
+TAX-INTL-080;Nein, die Voraussetzungen für die Begünstigung sind nicht erfüllt, da die Mindestfrist nicht erfüllt ist (§ 18 Abs. 1 Z 1 EStG).
+ESTG-NEW-001;Die Steuerpflicht entsteht mit Ablauf des Jahres der Zuwendung (§ 22 Abs. 1 EStG). Die Einkünfte ergeben sich aus dem Wert der Staking-Rewards bei Gutschrift und der tatsächlichen Veräußerung (§ 22 Abs. 2 EStG).
+ESTG-NEW-002;Nein, da keine finanzielle Gegenleistung erfolgt, liegt keine steuerpflichtige Schöpfung vor (§ 2 Abs. 1 UmgrStG). Der Veräußerungsgewinn ergibt sich aus dem Verkaufspreis abgezogen von den Anschaffungskosten (§ 22 Abs. 1 Z 1 UmgrStG).
+ESTG-NEW-003;Der steuerliche Zufluss der BTC-X erfolgt mit dem Fork, da die Wertsteigerung aufgrund gesetzlicher Vorgaben zusteht (§ 6 Abs. 2 UmgrStG). Die Anschaffungskosten betragen den Wert der BTC-X zum Zeitpunkt des Zuflusses (§ 6 Abs. 1 UmgrStG).
+ESTG-NEW-004;Bei der Einzahlung liegt ein steuerbarer Tausch gegen Geld vor, da die LP-Token gegen Zahlung von 50 ETH ausgegeben werden (§ 2 Abs. 1 UStG).
+ESTG-NEW-005;Das Bridging von BTC zu WBTC ist ein rein technischer Transfer und steuerneutral, da keine Wertveränderung vorliegt (§ 6 Abs. 1 Z 1 UStG).
+ESTG-NEW-006;Der Airdrop ist steuerfrei, da keine Gegenleistung besteht und keine sonstige Leistung erbracht wird (§ 3 Abs. 2 UStG). Der Veräußerungsgewinn ergibt sich aus dem Verkaufspreis abzüglich des Wertes bei der Zuerklärung (§ 6 Abs. 1 Z 1 UStG).
+ESTG-NEW-007;Ja, da die Staking-Plattform eine Kapitalforderung darstellt und die Erträge als Zinsen bezeichnet werden, handelt es sich um Zinsen aus Kapitalforderungen im Sinne des § 27 Abs. 2 Z 2 EStG (§ 18 Abs. 2 EStG). Die DeFi-Transaktionskosten sind als Werbungskosten abzugsfähig, da sie mit der Einnahmeverwirkung verbunden sind (§ 18 Abs. 1 Z 2 EStG).
+ESTG-NEW-008;Die Staking-Rewards sind im Verhältnis der Anschaffungskosten der ETH zuzuordnen (§ 10 Abs. 3 EStG). Da keine schriftliche Vereinbarung besteht, wird die Zuordnung nach den tatsächlichen Verhältnissen erfolgen (§ 10 Abs. 4 EStG). Die Anschaffungskosten der veräußerten 30 ETH bestimmen sich nach den tatsächlichen Verhältnissen und dem Wert bei der Veräußerung (§ 10 Abs. 3 EStG).
+ESTG-NEW-009;Die Stockdividende ist in Österreich steuerfrei, da sie keine Einnahme im Sinne des § 22 EStG darstellt (§ 22 Abs. 2 EStG).
+ESTG-NEW-010;Nein, das Unstaking ist keine steuerpflichtige Voraussetzung, da keine sonstige Leistung vorliegt (§ 2 Abs. 1 UStG).
+ESTG-NEW-011;Der Verlust aus dem Verkauf von Kryptowährungen kann gegen andere Einkünfte verrechnet werden, sofern die Voraussetzungen erfüllt sind (§ 10 Abs. 3 EStG).
+ESTG-NEW-012;Nein, da Herr Pfeiber die BTC nicht zur Zahlung einsetzt, liegt kein steuerbarer Vorgang vor (§ 1 UStG).
+ESTG-NEW-013;Nein, da keine Änderung der wirtschaftlichen Funktion und der Rechte gegenüber Dritten vorliegt, handelt es sich nicht um einen steuerpflichtigen Tausch (§ 2 Abs. 1 UStG).
+ESTG-NEW-014;Die Einkünfte aus dem Rebase und dem Verkauf sind als sonstige Einkünfte zu qualifizieren (§ 22 Abs. 4 EStG).
+ESTG-NEW-015;Nein, die Tauschung von Stablecoins kann steuerbar sein, da ein Wertzuwachs im Sinne des § 7 EStG vorliegen kann (§ 2 UStG).
+ESTG-NEW-016;Die Einlage ist steuerneutral, da keine steuerpflichtige Schöpfung vorliegt (§ 2 Abs. 1 UmgrStG). Die Entnahme ist steuerbar und unterliegt der Körperschaftsteuer (§ 3 Abs. 1 UmgrStG). Der Verkauf ist steuerbar und unterliegt der Körperschaftsteuer (§ 2 Abs. 1 KStG).
+ESTG-NEW-017;Die Anschaffungskosten betragen EUR 105.000 (3 BTC x EUR 35.000), da die BTC vor dem Stichtag angeschafft wurden (§ 6 Abs. 2 Z 1 EStG). Der Verkauf ist steuerpflichtig, da der Wert der Lieferungen den Freibetrag überschreitet (§ 6 Abs. 1 Z 1 EStG).
+ESTG-NEW-018;Ja, Herr Zach kann einen Verlust aus Kryptowährungen geltend machen, wenn die Voraussetzungen des § 27 Abs. 8 EStG erfüllt sind (§ 27 Abs. 8 EStG). Der Verlust kann bis zur Höhe des Gewinns aus der Beteiligung berücksichtigt werden (§ 27 Abs. 8 EStG).
+ESTG-NEW-019;Nein, der Reverse Split ist steuerlich relevant und kann zu einem steuerpflichtigen Ereignis führen (§ 7 Abs. 1 KStG).
+ESTG-NEW-020;Die Staking-Einkünfte sind bei automatischem Re-Staking steuerpflichtig, da die Einkünfte bereits entstanden sind (§ 22 Abs. 1 EStG).
+VAT-DOM-001;Ja, der Marktplatz kann als sonstiger Leistungsempfänger behandelt werden, sofern die gesetzlichen Voraussetzungen erfüllt sind (§ 6 Abs. 2 UStG).
+VAT-DOM-002;Die Beförderung wird der Lieferung zugerechnet, für die sie erfolgt (§ 6 Abs. 2 UStG).
+VAT-DOM-003;Eine Lieferung liegt vor, da der Unternehmer dem Auftraggeber ein bewegliches Gut im Sinne des § 3 UStG überlässt (§ 3 Abs. 2 UStG).
+VAT-DOM-004;Nein, da die Leistung an eine deutsche Körperschaft erbracht wird, liegt der Leistungsort in Deutschland (§ 3a UStG).
+VAT-DOM-005;Nein, der Leistungsort liegt regelmäßig beim Empfänger der Leistung, da die Leistung ausschließlich im Inland verwirklicht wird (§ 3a UStG).
+VAT-DOM-006;Nein, da der Vertrag eine konkrete Lieferung vorsieht, ist der Leistungsort an den tatsächlichen Umfang der Lieferung gebunden (§ 3 UStG).
+VAT-DOM-007;Nein, da keine tatsächliche Lieferung vorliegt, ist der Ort der Leistung nach den allgemeinen Regeln bestimmt (§ 3a UStG).
+VAT-DOM-008;Nein, da der Wiederverkäufer keine besondere Betriebsstätte hat, liegt der Ort der Lieferung im Inland (§ 3 Abs. 1 Z 1 UStG).
+VAT-DOM-009;Nein, da keine Lieferung vorliegt, ist der Vorsteuerabzug ausgeschlossen (§ 3a Abs. 1a Z 1 UStG).
+VAT-DOM-010;Ja, da die Maschine im Bestimmungsland verbleibt und der Empfänger nur formale Rechtspflichten erfüllt, liegt der Ort der Lieferung im Bestimmungsland (§ 3a UStG).
+VAT-DOM-011;Ja, die Lieferung gilt als erfolgt, sobald die Ware dem Empfänger übergeben wird (§ 3a UStG).
+VAT-DOM-012;Die Leistung ist als sonstige Leistung zu qualifizieren, da keine bewegliche Leistung erbracht wird (§ 3a UStG).
+VAT-DOM-013;Ja, da die Lieferung an einen nicht unternehmerischen Bestimmungsort erfolgt, liegt der Ort der Lieferung am Sitz des Unternehmers (§ 3a UStG).
+VAT-DOM-014;Der Ort der Leistung liegt bei der Lieferung an den Kunden am Bestimmungsort (§ 3a UStG).
+VAT-DOM-015;Nein, der Leistungsort liegt nach den allgemeinen Regeln im Inland, da die Leistung dort erbracht wird (§ 3a UStG).
+VAT-DOM-016;Ja, die Übergabe kann bereits vor dem Eigentumsübergang erfolgen, sofern der Käufer die Anlage im eigenen Namen und für eigenbetriebliche Zwecke verwendet (§ 449 BGB).
+VAT-DOM-017;Nein, da keine Änderung der Form oder des Materials erfolgt, handelt es sich nicht um eine Bearbeitung oder Verarbeitung (§ 3 Abs. 6 UStG).
+VAT-DOM-018;Nein, der Leistungsort liegt im Ausland, da die Leistung ausschließlich für eine ausländische Betriebsstätte bestimmt ist (§ 3a UStG).
+VAT-DOM-019;Nein, da keine Lieferung vorliegt, ist die Vergütung ein sonstiger Leistung (§ 3a UStG).
+VAT-DOM-020;Nein, der Leistungsort liegt regelmäßig im Inland, da die Leistung dort erbracht wird (§ 3a UStG).
+VAT-DOM-021;Nein, da die Gemeinde unternehmerische Tätigkeiten ausübt, ist sie unter bestimmten Voraussetzungen als Unternehmer anzusehen und demzufolge umsatzsteuerpflichtig (§ 2 Abs. 1 UStG).
+VAT-DOM-022;Nein, eine Organschaft setzt eine gesetzliche Voraussetzung und eine tatsächliche Einheitlichkeit voraus (§ 9 KStG).
+VAT-DOM-023;Nein, da keine unternehmerische Tätigkeit im Sinne des Gesetzes vorliegt, ist die Person nicht zur Umsatzsteuer verpflichtet (§ 2 Abs. 1 UStG).
+VAT-DOM-024;Nein, da die Leistung nicht zur privaten Nutzung bestimmt war, liegt kein steuerbarer Eigenverbrauch vor (§ 3a UStG).
+VAT-DOM-025;Nein, da der Unternehmer nur im Namen und für Rechnung des Kunden handelt, ist der Betrag nicht steuerbar (§ 3a UStG).
+VAT-DOM-026;Der Arzt ist zur Steuerpflicht im Bereich der sonstigen Leistungen (§ 6 Abs. 2 Z 1 UStG) verpflichtet, da er keine sonstige Leistung im Sinne des § 3 Abs. 1 UStG erbringt (§ 3 Abs. 2 UStG).
+VAT-DOM-027;Die Unterstützung kann als Sonderausgaben abzugsfähig sein, sofern die Voraussetzungen erfüllt sind (§ 18 Abs. 1 Z 3 EStG).
+VAT-DOM-028;Der Drittbetrag ist Bestandteil der Bemessungsgrundlage, da er im Zusammenhang mit der Leistung erbracht wird (§ 4 Abs. 1 UStG).
+VAT-DOM-029;Die Bemessungsgrundlage ergibt sich nach den tatsächlichen Wertverhältnissen (§ 3a UStG).
+VAT-DOM-030;Bei Wiedereinführungen ist die Bemessungsgrundlage der Wert des Gegenstands zum Zeitpunkt der Einfuhr (§ 5 Abs. 1 UStG).
+VAT-DOM-031;Die Bemessungsgrundlage ergibt sich nach § 4 UStG aus dem Kaufpreis zuzüglich sonstiger Leistungen und abzüglich Vorsteuer (§ 4 Abs. 2 UStG).
+VAT-DOM-032;In solchen Fällen ist die Bemessungsgrundlage nach § 4 UStG durch die tatsächliche Leistung an sich bestimmt (§ 4 Abs. 1 UStG).
+VAT-DOM-033;Bei fehlender Bemessungsgrundlage kann die Behörde die Bewertung nach den allgemeinen Bewertungsvorschriften der Abgabenordnung vornehmen (§ 4 Abs. 2 UStG).
+VAT-DOM-034;Beförderungs-, Versicherungs- und Verpackungskosten sind unter bestimmten Voraussetzungen in die Bemessungsgrundlage einbezogen (§ 5 UStG).
+VAT-DOM-035;Die Kontrolltätigkeit ist keine unternehmerische Leistung im Sinne des Umsatzsteuerrechts, da die Begünstigung nur für bestimmte unternehmerische Leistungen gilt (§ 2 Abs. 1 UStG).
+VAT-DOM-036;Die Bereitstellung staatlicher Einrichtungen kann unter bestimmten Voraussetzungen als sonstige Leistung qualifiziert werden (§ 3 Abs. 1 UStG).
+VAT-DOM-037;Der Betrag ist nicht zur Bemessungsgrundlage zu zählen, da die Leistung nicht vertraglich geschuldet war (§ 4 UStG).
+VAT-DOM-038;Nein, da die Voraussetzungen des § 1 Abs. 1 Z 2 lit. a UStG nicht erfüllt sind, liegt kein steuerbarer Eigenverbrauch vor (§ 1 Abs. 1 Z 2 UStG).
+VAT-DOM-039;Ja, das ist unter bestimmten Voraussetzungen zulässig, da die Einfuhrumsatzsteuer als Bestandteil der Bemessungsgrundlage gelten kann (§ 5 Abs. 2 UStG).
+VAT-DOM-040;§ 2 Abs. 1 UStG sieht eine unternehmerische Tätigkeit ohne bestimmte Beteiligung an der Wirtschaft vor, sofern die sonstigen Voraussetzungen erfüllt sind (§ 2 Abs. 1 UStG).
+VAT-DOM-041;Nein, da keine ausländische Stellung vorliegt, ist die Lieferung nicht steuerfrei (§ 7 UStG).
+VAT-DOM-042;Nein, da die Lieferung im Inland erfolgt, ist die Zweigniederlassung innergemeinschaftlicher Lieferant (§ 7 UStG).
+VAT-DOM-043;Ja, da die Voraussetzungen erfüllt sind, ist der Käufer von der Bemessungsgrundlage ausgenommen (§ 7 Abs. 1 Z 3 UStG).
+VAT-DOM-044;Nein, da keine ausländische Abnehmerin besteht, liegt keine Ausfuhrlieferung im Sinne des § 7 UStG vor (§ 7 Abs. 1 UStG).
+VAT-DOM-045;Nein, da die Voraussetzungen noch nicht erfüllt sind, ist die Steuerbefreiung ausgeschlossen (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-046;Ja, da der Wiener Unternehmer die Teile veredelt und sie anschließend selbst ausführt, liegt eine Lohnveredlung an Gegenständen der Ausfuhr vor (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-047;Ja, da die Leistung an einen ausländischen Unternehmer erbracht wird, ist § 8 Abs. 1 Z 2 UStG anwendbar (§ 8 Abs. 1 Z 2 UStG).
+VAT-DOM-048;Ja, da der Unternehmer den Gegenstand herstellt und ausführt, liegt ein steuerbarer Vorgang vor (§ 8 Abs. 1 Z 1 UStG).
+VAT-DOM-049;Nein, da die Zweigniederlassung keine eigene Rechtspersönlichkeit besitzt, ist die deutsche Gruppenunternehmen als ausländischer Leistungsempfänger anzusehen (§ 3a UStG).
+VAT-DOM-050;Ja, da die Voraussetzungen erfüllt sind, kann der Unternehmer die Steuerfreiheit in Anspruch nehmen, obwohl die formellen Voraussetzungen nicht erfüllt sind (§ 8 UStG).
+VAT-DOM-051;Ja, da das Wasserfahrzeug ausschließlich für touristische Zwecke genutzt wird, ist die Vercharterung steuerfrei (§ 9 Abs. 1 Z 1 UStG).
+VAT-DOM-052;Ja, da die Waren ausschließlich für betriebliche Zwecke verwendet werden, ist die Umsatzsteuer befreit (§ 9 Abs. 1 Z 3 UStG).
+VAT-DOM-053;Ja, da keine Lieferung im eigentlichen Sinne vorliegt, ist die Leistung befreit (§ 9 Abs. 1 Z 1 UStG).
+VAT-DOM-054;Nein, da die Airline auch Inlandscharterflüge durchführt, ist die Befreiung nicht gegeben (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-055;Die Befreiung ist anwendbar, da die Voraussetzungen im Wesentlichen erfüllt sind (§ 9 Abs. 2 Z 1 UStG).
+VAT-DOM-056;Nein, da die Wochenzeitung keine sonstige Leistung im Sinne des § 3a UStG darstellt, unterliegt der Verkauf der Druckschrift nicht der Umsatzsteuer (§ 3a UStG).
+VAT-DOM-057;Ja, da die Datei überwiegend aus Text und Grafiken besteht, ist der ermäßigte Steuersatz anwendbar (§ 10 Abs. 1 UStG).
+VAT-DOM-058;Nein, da das Frühstück nicht zur Beherbergung gehört, ist der 10%-Satz nicht anzuwenden (§ 10 Abs. 2 Z 3 lit. c UStG).
+VAT-DOM-059;Nein, da der Audioguide eine eigenständige Leistung ist, ist die Steuerbemessungsgrundlage nach dem allgemeinen Steuersatz zu ermitteln (§ 12 Abs. 2 UStG).
+VAT-DOM-060;Für sonstige Leistungen gilt die Umsatzsteuer nach Maßgabe des § 10 UStG (§ 3 Abs. 2 UStG).
+VAT-DOM-061;Die Einfuhrbefreiung gilt für die Manuskripte und Modelle, da sie für eine öffentliche Lehr- und Forschungsausstellung bestimmt sind (§ 3 Abs. 2 Z 1 UStG).
+VAT-DOM-062;Nein, die Rückkehr einer Warenlieferung in das Inland ist grundsätzlich steuerfrei, sofern die Voraussetzungen erfüllt sind (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-063;Nein, die Befreiung kann auch für den Teil gelten, der im Inland gelagert wird, sofern die Voraussetzungen erfüllt sind (§ 3 Abs. 2 Z 1 Z 1a UStG).
+VAT-DOM-064;Die Unentgeltlichkeit ist im Zeitpunkt des Eingangs der Waren im Inland maßgeblich (§ 3a UStG).
+VAT-DOM-065;Die Beteiligung an der Binnennachfrage ist gering, da die Waren ausschließlich für den Eigenverbrauch bestimmt sind (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-066;Nein, bei Vorliegen einer tatsächlichen Beteiligung an der Wirtschaftsverkehr liegt eine steuerliche Befreiung vor (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-067;Nein, die tatsächliche Nutzung des Unternehmensgegenstandes bestimmt die steuerliche Zurechnung (§ 3 UStG).
+VAT-DOM-068;Eine überwiegende steuerfreie Nutzung setzt eine ausreichende steuerpflichtige Nutzung voraus (§ 6 Abs. 2 UStG).
+VAT-DOM-069;Die Befreiung umfasst die Leistungen der Depotführung und der Verwahrung von Wertpapieren, soweit diese Leistungen im Zusammenhang mit dem Handel mit Wertpapieren erbracht werden (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-070;Die 10-Prozent-Toleranz ist unter Einbeziehung der anderen steuerfreien Umsätze zu berechnen (§ 6 Abs. 2 UStG).
+VAT-DOM-071;Die Steuerbefreiung gilt nur für bestimmte Leistungen im Bereich des Sports (§ 34 Abs. 1 Z 1a KStG).
+VAT-DOM-072;Die Steuerbefreiung kann auf Vorleistungen erstreckt werden, wenn dies im Gesetz vorgesehen ist (§ 6 Abs. 2 UStG).
+VAT-DOM-073;Nein, eine Befreiung setzt neben der Anknüpfung an einen Umsatz im Drittlandsgebiet auch eine tatsächliche Beteiligung des Drittlandsunternehmers voraus (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-074;Nein, ein enger wirtschaftlicher Zusammenhang ist nicht ausreichend, da die Beförderung keine eigenständige Leistung ist (§ 6 Abs. 2 UStG).
+VAT-DOM-075;Die formelle Nachweisbarkeit ist für die Steuerbefreiung zwingend vorgeschrieben (§ 6 Abs. 2 UStG).
+VAT-DOM-076;Ja, die Begünstigung gilt auch bei institutioneller Abrechnung, sofern die Voraussetzungen erfüllt sind (§ 12 Abs. 1 Z 1 UStG).
+VAT-DOM-077;Die Befreiung gilt nur für bestimmte Artikel wie Kondome und Diaphragmen (§ 6 Abs. 1 Z 19 UStG).
+VAT-DOM-078;Die Einnahmen aus der gesamten Veranstaltungsreihe sind als einheitlicher steuerbar, da sie aus einer einheitlichen wirtschaftlichen Maßnahme resultieren (§ 6 Abs. 2 UStG).
+VAT-DOM-079;Die Befreiung gilt für Leistungen an Versicherte und an mitversicherte Angehörige (§ 6 Abs. 1 Z 1 UStG).
+VAT-DOM-080;Die Steuerbefreiung kann auf die Leistungen des Krankenhauspakets ausgedehnt werden, soweit sie dem Zweck der Heilbehandlung dienen (§ 6 Abs. 1 Z 19 UStG).
+GRESt-AT-001;Nein, da keine rechtliche Verbindung zwischen der Holding-GmbH und der Tochter-GmbH besteht, entfällt die Steuerpflicht (§ 2 Abs. 2 UStG).
+GRESt-AT-002;Nein, da keine Änderung der rechtlichen Stellung der Körperschaft eintritt, liegt keine steuerpflichtige Gruppenbildung vor (§ 2 Abs. 1 KStG).
+GRESt-AT-003;Für die Ermittlung der 75%-Schwelle ist das bereinigte Kapital maßgeblich, da dies die tatsächliche Beteiligung an der Körperschaft widerspiegelt (§ 7 Abs. 1 KStG).
+GRESt-AT-004;Die Beteiligung an unbeweglichen Wirtschaftsgütern wird grundsätzlich nach dem Wert der gesamten Liegenschaft besteuert (§ 7 Abs. 1 Z 1 UStG).
+GRESt-AT-005;Ja, der Erwerb ist von der Grunderwerbsteuer befreit, da die Immobilie für einen begünstigten Zweck genutzt wird (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-006;Nein, da die Wohnung dem Betrieb eines Gewerbes dienen kann, ist sie betriebliches Vermögen und steuerfrei (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-007;Nein, da die tatsächliche Sachlage der gesetzlichen Voraussetzung entspricht, ist die Steuerfreiheit gegeben (§ 2 Abs. 1 Z 1 GStG).
+GRESt-AT-008;Die Übertragung ist steuerfrei, sofern die Tochter die Betriebsfortführung aufnimmt und die gesetzlichen Voraussetzungen erfüllt (§ 6 Abs. 1 Z 1 UmgrStG).
+GRESt-AT-009;Bei einem Erwerb gegen Gewährung eines Grundstücks tritt der Wert des Grundstücks an die Stelle des Kaufpreises (§ 7 Abs. 1 Z 1 UStG).
+GRESt-AT-010;Die Steuer wird nach dem Wert des Grundstücks und dem Umfang der Nutzungsbefugnis bestimmt (§ 2 Abs. 1 Z 1, Abs. 2 UStG).
+GRESt-AT-011;Nein, da die Hypothek nicht dem Vermögen des Käufers zugeordnet werden kann, ist sie steuerneutral (§ 7 Abs. 1 Z 2 UStG).
+GRESt-AT-012;Für innergemeinschaftliche Lieferungen gilt ein Steuersatz von 0 % (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-013;Bei Verkäufen an Nicht-Familienmitglieder ist der Steuersatz grundsätzlich 25 % (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-014;Die Steuerschuld entsteht mit Ablauf des Jahres, in dem die Zusage erfolgt (§ 19 Abs. 10 UStG).
+GRESt-AT-015;Der Käufer ist zur Entrichtung der Grunderwerbsteuer verpflichtet (§ 5 Abs. 1 GStG).
+GRESt-AT-016;Nein, da die Vertragsparteien die Verpflichtung zur Abgabenzahlung selbst aufgeben, liegt keine steuerbare Vorgang vor (§ 12 Abs. 1 UStG).
+GRESt-AT-017;Der steuerpflichtige Erwerbsvorgang muss innerhalb einer Frist von einem Monat angezeigt werden (§ 26 Abs. 4 UStG).
+GRESt-AT-018;Die Bemessungsgrundlage ist das Kaufpreis minus Wertbeträge (§ 10 Abs. 3 UmgrStG).
+GRESt-AT-019;Da keine Gegenleistung vorliegt, ist die Bemessungsgrundlage nach § 2 Abs. 1 Z 1 GStG auf Null festzusetzen (§ 3 Abs. 1 GStG).
+GRESt-AT-020;Die Grunderwerbsteuer wird nach dem Wert des Grundstücks und der Dauer des Rechtes bemessen (§ 2 Abs. 1 Z 1, § 3 Abs. 1 Z 1 GrEStG).
+GRESt-AT-021;Ja, die Abtretung kann steuerbar sein, wenn die Voraussetzungen des § 2 UStG erfüllt sind (§ 3 UStG).
+GRESt-AT-022;Nein, da keine Rechtspersönlichkeit übertragen wird, entfällt die Steuerpflicht (§ 2 Abs. 1 Z 1 UStG).
+GRESt-AT-023;Die Anteile werden dem Treugeber zugerechnet, da er die tatsächliche Entscheidungsfreiheit hat (§ 9 Abs. 4 KStG).
+GRESt-AT-024;Ja, das Gebäude ist grunderwerbsteuerlich mit dem Grundstück zu verbinden (§ 7 Abs. 1 Z 1 UStG).
+GRESt-AT-025;Nein, da kein bestimmtes Grundstück vorliegt, ist der Steuergegenstand nicht gegeben (§ 2 Abs. 1 Z 1 UStG).
+GRESt-AT-026;Für die Anwendung der Freibetragsregelung muss der Übergeber mindestens 50 Jahre alt sein und körperlich oder psychisch behindert sein (§ 2 Abs. 1 Z 1 UmgrStG).
+GRESt-AT-027;Nein, da keine Gegenleistung erfolgt, liegt kein steuerbarer Vorgang vor (§ 1 UStG).
+GRESt-AT-028;Nein, da die Botschaft eine ausländische Behörde ist, liegt ein steuerfreier innergemeinschaftlicher Grundstücksverkauf vor (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-029;Die Steuer wird nach dem Wert der Liegenschaft bemessen (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-030;Nein, die Entschädigung für die Wertminderung ist steuerfrei (§ 3 Abs. 2 Z 1 UmgrStG).
+GRESt-AT-031;Nein, die Zahlung ist als Sonderausgaben abzugsfähig und nicht zur Bemessungsgrundlage der Grunderwerbsteuer zu zählen (§ 3 Abs. 2 UmgrStG).
+GRESt-AT-032;Nein, die Grunderwerbsteuer ist keine Beteiligung des Käufers an der Gegenleistung (§ 4 UStG).
+GRESt-AT-033;Bei unentgeltlichen Übertragungen ist der Wert im Zeitpunkt der Übertragung maßgeblich und kann nach den allgemeinen Bewertungsvorschriften ermittelt werden (§ 7 Abs. 1 BewG).
+GRESt-AT-034;Ein Steuerschuldner kann den tatsächlichen Wert eines Grundstückes nachweisen, indem er Belege wie Bewertungsunterlagen oder Gutachten vorlegt (§ 184 BAO).
+GRESt-AT-035;Ein Erwerbsvorgang liegt bei einer Gegenleistung bis zu 50 % des Wertes des Grundstücks vor (§ 2 Abs. 1 GrEStG).
+GRESt-AT-036;Nein, da keine Gegenleistung vorliegt, entfällt die Bemessungsgrundlage (§ 2 Abs. 1 Z 1 UStG).
+GRESt-AT-037;Nein, die Grunderwerbsteuer ist im Regelfall sofort aufzubringen (§ 18 Abs. 2 UStG).
+GRESt-AT-038;Die Abgabenerklärung ist innerhalb von drei Monaten nach Ablauf des Jahres zu veranlagen (§ 115 BAO).
+GRESt-AT-039;Für bestimmte Unterlagen gelten spezielle Aufbewahrungsfristen, die bis zu zehn Jahren betragen können (§ 25 Abs. 2 Z 1 UStG).
+GRESt-AT-040;Ja, die Steuer kann unter bestimmten Voraussetzungen herabgesetzt werden (§ 18 Abs. 1 BewG).
+GRESt-AT-041;Ja, da die Beteiligungen innerhalb eines Unternehmensverbunds liegen, liegt eine steuerpflichtige Anteilsvereinigung vor (§ 2 Abs. 1 KStG).
+GRESt-AT-042;Eine solche Aufteilung kann unter bestimmten Voraussetzungen steuerlich zulässig sein, sofern die Voraussetzungen des § 6 Abs. 2 UStG erfüllt sind (§ 6 Abs. 3 UStG).
+GRESt-AT-043;Die gesamte Betriebsumsatzsteuer kann bis zu einem Wert von 1 Mio. Euro steuerfrei sein (§ 6 Abs. 1 Z 19 UStG).
+GRESt-AT-044;Die Steuer wird nach dem tatsächlichen Wert des Grundstücks bemessen (§ 22 Abs. 1 UmgrStG).
+GRESt-AT-045;Die Gegenleistung beträgt insgesamt 650.000 Euro (§ 4 Abs. 1 UStG).
+GRESt-AT-046;Ja, der tatsächliche Wert kann unter bestimmten Voraussetzungen berücksichtigt werden (§ 46 Abs. 2 Z 1 UStG).
+GRESt-AT-047;Die Steuer beträgt mindestens 2 % und höchstens 6 % des Wertes, bei einem Wert unter 1.000 Euro beträgt die Steuer einheitlich 0,5 % (§ 19 Abs. 3 UmgrStG).
+GRESt-AT-048;Die Grunderwerbsteuerschuld entsteht mit Ablauf des Jahres, in dem die Bedingung erfüllt wird (§ 5 Abs. 2 Z 1 EStG).
+GRESt-AT-049;Die Körperschaft besteht fort und ist Steuerschuldner (§ 27 Abs. 1 KStG).
+GRESt-AT-050;Die Mitwirkungspflicht besteht bis zur vollständigen Erfüllung der steuerlichen Offenlegungs- und Mitwirkungspflicht (§ 119 BAO).
+GRESt-AT-051;Die Körperschaft, die das Grundstück erwirbt, kann die Grunderwerbsteuer selbst veranlagen (§ 27 Abs. 2 UStG). Die Selbstveranlagung muss innerhalb einer Frist von drei Monaten nach der Zuerlassung erfolgen (§ 27 Abs. 3 UStG).
+GRESt-AT-052;Der Notar muss die Selbstberechnungserklärung gegenüber der Behörde, bei der die Steuer festzusetzen ist, einreichen (§ 18 Abs. 2 UStG).
+GRESt-AT-053;Die Anmeldung muss bis zum Ablauf des Monats nach der Schätzung eingereicht werden (§ 18 Abs. 2 Z 1 UStG). Die Steuer ist bis zum Ablauf eines Monats nach der Schätzung zu zahlen (§ 18 Abs. 2 Z 2 UStG). Die Behörde kann die Anwältin zur Zahlung und Vorlage von Nachweisen verpflichten (§ 118 BAO).
+GRESt-AT-054;Die Unterlagen müssen mindestens zehn Jahre lang aufbewahrt werden, sofern keine gesetzliche Verjährungsfrist abgelaufen ist (§ 25 Abs. 2 Z 1 UStG). Die Pflicht entfällt, wenn die Behörde die Besteuerungsgrundlagen festsetzt (§ 25 Abs. 3 UStG).
+GRESt-AT-055;Die Behörde, die zur Mitwirkung aufgefordert werden kann, ist die zuständige Finanzbehörde (§ 115 BAO).
+GRESt-AT-056;Ja, da die Voraussetzungen für die Steuerfreiheit nicht mehr gegeben sind, ist die Steuer im Ausmaß der Änderung neu festzusetzen (§ 18 Abs. 1 UStG).
+GRESt-AT-057;Mit 1. Juli 2025 wird die Mindestbeteiligung bei Anteilsvereinigungen von 95 % auf 90 % gesenkt (§ 2 Abs. 1 UmgrStG). Die Voraussetzungen für die steuerliche Anerkennung werden geändert (§ 2 Abs. 2 UmgrStG).
+GRESt-AT-058;Nein, da der Anteilswert bereits überschritten ist, entfällt die Steuerpflicht (§ 2 Abs. 1 UmgrStG).
+GRESt-AT-059;Die Neuregelungen treten mit 1. Jänner 2026 in Kraft (§ 1 BGBl. I Nr. 97/2025).
+GRESt-AT-060;Die Abgabenerklärung muss bis spätestens 30 Tage nach Ablauf des Jahres, in dem das Nachlasszeugnis ausgestellt wurde, abgegeben werden (§ 47 Abs. 1 BewG).
+GRESt-AT-061;Ja, da der Vertrag zustandegekommen ist, ist der Hauseigentümer zur Zahlung der Grunderwerbsteuer verpflichtet (§ 2 Abs. 1 UStG).
+GRESt-AT-062;Die Grunderwerbssteuer ist nach den tatsächlichen Wertverhältnissen zu ermitteln (§ 29 Abs. 1 BewG).
+GRESt-AT-063;Die Zuwendung ist steuerbar, da ein steuerbarer Vorgang vorliegt (§ 2 Abs. 1 UStG).
+GRESt-AT-064;Nein, ein Superädifikat gilt nicht als Grundstück im Sinne des GrEStG (§ 2 Abs. 1 Z 1 GrEStG).
+GRESt-AT-065;Nein, da keine steuerbare Leistung vorliegt, ist die Steuer nicht festzusetzen (§ 6 Abs. 1 Z 1 UStG).
+GRESt-AT-066;Ja, da der Wert des Grundstücks dem Wert des Vermögens entspricht, ist der Erwerb steuerneutral (§ 2 Abs. 1 UmgrStG).
+GRESt-AT-067;Grundsätzlich ist der Neuerwerber Steuerschuldner (§ 27 Abs. 1 Z 1 UStG).
+GRESt-AT-068;Nein, die Steuer ist nach dem maßgeblichen Wert des Grundstücks zu ermitteln (§ 29 Abs. 1 Z 1 UStG).
+GRESt-AT-069;Ja, der Vertrag unterliegt der Grunderwerbsteuer (§ 2 Abs. 1 GStG). Die Steuerschuld trifft den Käufer (§ 5 GStG).
+GRESt-AT-070;Ja, die Abtretung eines Anspruchs auf Übereignung ist steuerbar, da ein Recht veräußert wird (§ 2 Abs. 1 Z 1 UStG).
+GRESt-AT-071;Nein, da keine steuerpflichtige Leistung vorliegt, ist der Verkauf steuerfrei (§ 6 Abs. 1 Z 1 GrEStG).
+GRESt-AT-072;Die Bemessungsgrundlage ist der Wert der Liegenschaft zum Zeitpunkt der Übertragung (§ 2 Abs. 1 GrEStG).
+GRESt-AT-073;Nein, eine solche Umgründung kann nur unter bestimmten Voraussetzungen steuerfrei sein (§ 2 Abs. 1 UmgrStG).
+GRESt-AT-074;Ja, die Übertragung ist steuerfrei, wenn sie zur Förderung der Wohnraumschaffung erfolgt (§ 3 Abs. 2 UStG).
+GRESt-AT-075;Ja, die Zusammenlegung von Grundstücken ist steuerfrei, wenn dies gesetzlich vorgesehen ist (§ 3 Abs. 2 Z 1 UStG).
+GRESt-AT-076;Nein, die Maschine kann vom Grundstück getrennt behandelt werden, sofern dies ausreichend belegt wird (§ 6 Abs. 2 Z 1 UmgrStG).
+GRESt-AT-077;Ja, eine tatsächliche Nutzung kann zur Begründung eines steuerpflichtigen Sachverhalts führen (§ 2 Abs. 1 UStG).
+GRESt-AT-078;Nein, da kein Rechtsgeschäft vorliegt, entfällt die Steuerpflicht (§ 1 Abs. 1 Z 1 UStG).
+GRESt-AT-079;Ja, ein Rechtserwerb kann unter bestimmten Voraussetzungen steuerbar sein (§ 2 Abs. 1 UmgrStG).
+GRESt-AT-080;Nein, da keine Leistung gegenüber dem Finanzamt erbracht wird, ist die Zahlung nicht steuerbar (§ 4 UStG).
+GRESt-AT-081;Nein, da der steuerbare Sachverhalt nicht mehr besteht, kann die Steuer nicht festgesetzt werden (§ 23 Abs. 5 UStG).
+VAT-INTL-001;Eine sonstige Leistung ist eine nicht gegen Entgelt erbrachte Leistung, die im Rahmen eines Unternehmens erfolgt (§ 3a UStG).
+VAT-INTL-002;Sonstige Leistungen sind Leistungen ohne Lieferbezug, wie Dienstleistungen oder sonstige Leistungen im Zusammenhang mit einem Grundgeschäft (§ 3a UStG).
+VAT-INTL-003;Bestimmte sonstige Leistungen wie Reparaturen oder Wartungen werden dem Umsatzsteuersystem unterworfen (§ 3 Abs. 1 UStG).
+VAT-INTL-004;Eine sonstige Leistung liegt bei der Verwendung eines dem Unternehmen zugeordneten Gegenstandes für private Zwecke oder für den Bedarf des Personals bei Vorliegen der gesetzlichen Voraussetzungen vor (§ 3a UStG).
+VAT-INTL-005;Eine unentgeltliche Leistung liegt vor, wenn eine sonstige Leistung ohne Gegenleistung erbracht wird (§ 3a Abs. 1 UStG).
+VAT-INTL-006;Ein tauschähnlicher Umsatz liegt bei der Gegenleistungspflichtigkeit vor, wenn keine Gegenleistung erbracht wird (§ 3 UStG).
+VAT-INTL-007;Die Überlassung eines gleichartigen Gegenstandes ist als sonstige Leistung zulässig, wenn die tatsächliche Lieferung fehlt (§ 3a UStG).
+VAT-INTL-008;Als Entgelt gilt das, was der Leistungsempfänger aufwendet oder zu zahlen hat (§ 3a UStG).
+VAT-INTL-009;Eine Werkleistung ist die Herstellung oder Veränderung einer Sache gegen Entgelt (§ 3 Abs. 1 UStG).
+VAT-INTL-010;### Ja, eine sonstige Leistung kann auch ohne aktives Tun des Unternehmers entstehen, wenn die Voraussetzungen erfüllt sind (§ 3a UStG).
+VAT-INTL-011;"„Lieferungen sind die Übergabe einer beweglichen Sache gegen Entgelt (§ 3 Abs. 1 UStG).  Andererseits sind sonstige Leistungen die sonstigen Leistungen, die nicht unter die sonstigen Leistungen fallen (§ 3 Abs. 2 UStG).  Lieferungen sind anders als sonstige Leistungen steuerbar (§ 3 Abs. 2 UStG).  """""""
+VAT-INTL-012;Eine unentgeltliche sonstige Leistung ist als entgeltlich anzusehen, wenn sie gegen eine Gegenleistung erbracht wird (§ 3 Abs. 2 UStG).
+VAT-INTL-013;### Ja, ein tauschähnlicher Umsatz liegt vor, wenn eine Leistung ohne Gegenleistung erbracht wird (§ 3 UStG).
+VAT-INTL-014;### Antwort: Ein Leistungsaustausch liegt vor, da der Grafikdesigner ein konkretes Produkt liefert (§ 3 UStG).
+VAT-INTL-015;### Antwort: Die Leistung des Fotografen ist ein sonstiger Dienst im Sinne des § 3a UStG (§ 3a UStG).
+VAT-INTL-016;### Die Leistung ist als sonstige Leistung gegen Entgelt zu qualifizieren, da keine konkrete Leistung gegenüber dem Kunden erbracht wird (§ 3a UStG).
+VAT-INTL-017;### Antwort: Ein pauschaler Werklohn liegt bei Lieferungen von Waren gegen Entgelt vor (§ 3 UStG).
+VAT-INTL-018;### Antwort: Die Leistung des Eventmanagers ist eine sonstige Leistung und unterliegt der Umsatzsteuer (§ 3a UStG).
+VAT-INTL-019;### Antwort: Die Leistung wird dem Unternehmer zugerechnet und als Eigenleistung steuerfrei behandelt (§ 3 Abs. 9 UStG).
+VAT-INTL-020;### Antwort: Die Leistung des Drittanbieters wird dem Reisebüro zugerechnet und als eigenständige Leistung besteuert (§ 3a UStG, § 6 Abs. 2 UStG).
+VAT-INTL-021;Die Leistung erfolgt im Inland, da die Privatperson eine Lieferung im Inland erhält (§ 3a UStG).
+VAT-INTL-022;### Der Leistungsort liegt bei Leistungen im Zusammenhang mit der Nutzung von Telekommunikationsdienstleistungen grundsätzlich am Empfangsort (§ 3a UStG).
+VAT-INTL-023;Ja, da keine Lieferung im innergemeinschaftlichen Handel vorliegt, ist die Steuer nach den Regeln für elektronische Dienstleistungen an Nichtunternehmer zu berechnen (§ 3a UStG).
+VAT-INTL-024;"""Der Leistungsort liegt grundsätzlich am Wohnsitz der Leistungsempfängerin (§ 3a UStG)."
+VAT-INTL-025;### Die Leistung wird grundsätzlich im Inland versteuert, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-026;### Die Leistung erfolgt im Inland, da der Rechtsanwalt eine juristische Person mit Sitz in Österreich ist (§ 3a UStG).
+VAT-INTL-027;### Die Leistung ist nach den allgemeinen Regeln im Inland steuerbar, da die Leistung an ein innergemeinschaftliches Unternehmen erbracht wird (§ 3a UStG).
+VAT-INTL-028;### Die Beteiligung eines Nichtunternehmers wird grundsätzlich nach dem Wohnsitz des Leistungsempfängers bestimmt (§ 3a UStG).
+VAT-INTL-029;Ein Umsatz liegt vor, da der Influencer eine Leistung gegen Entgelt erbringt (§ 3 UStG).
+VAT-INTL-030;### Antwort: Die Leistung erfolgt im Inland, da die Agentur in Österreich ansässig ist (§ 3a UStG).
+VAT-INTL-031;### Die Leistung erfolgt im Inland und ist steuerpflichtig, da die Leistung an einen nicht unternehmerisch tätigen Empfänger erbracht wird (§ 3a UStG).
+VAT-INTL-032;Nein, da keine Lieferung vorliegt, ist die Leistung nicht umsatzsteuerpflichtig (§ 3 Abs. 2 UStG).
+VAT-INTL-033;Der Leistungsort liegt bei sonstiger Regelung am Ort des Leistungsempfängers (§ 3a UStG).
+VAT-INTL-034;Der Leistungsort liegt beim Empfänger der Leistung, da der Begünstigte im Ausland ansässig ist (§ 3a UStG).
+VAT-INTL-035;Die Begünstigung dient der Stärkung des Wettbewerbs und der Steuerentlastung (§ 3a Abs. 16 UStG).
+VAT-INTL-036;„Der Leistungsort kann nach einer Verordnung nach § 3a Abs. 16 UStG in die EU oder in den zuständigen Staat des EWR versetzt werden (§ 3a Abs. 16 UStG).
+VAT-INTL-037;Der Vorgang ist als sonstiger Leistungsinhalt steuerbar, da der Landwirt eine Leistung gegen Entgelt erhält (§ 3a UStG).
+VAT-INTL-038;Für bestimmte Leistungen im Bereich der Kultur und Freizeit gelten ermäßigte Steuersätze (§ 10 UStG).
+VAT-INTL-039;Die Leistung erfolgt in Wien, da die tatsächliche Verschaffung der Leistung dort liegt (§ 3a UStG).
+VAT-INTL-040;### Die Leistung ist im Inland steuerpflichtig, da die Beteiligung des Leistungsempfängers am steuerlichen Ortswohnsitz fehlt (§ 3a UStG).
+VAT-INTL-041;### Der Leistungsort liegt bei der Beteiligung an einem Unternehmen am Sitz des Unternehmens (§ 3a UStG).
+VAT-INTL-042;Nein, da keine unternehmerische Tätigkeit vorliegt, handelt es sich nicht um eine sonstige Leistung (§ 3a UStG).
+VAT-INTL-043;Nein, da keine tatsächliche Leistung erbracht wird, liegt kein steuerbarer Vorgang vor (§ 3a UStG).
+VAT-INTL-044;Nein, da der Wagen für unternehmerische Zwecke genutzt wird, ist die Nutzung auch unternehmerisch (§ 12 Abs. 2 UStG).
+VAT-INTL-045;### Nein, da das Fahrrad für unternehmerische Zwecke verwendet wird, ist der Vorsteuerabzug zulässig (§ 12 Abs. 2 UStG).
+VAT-INTL-046;Die Leistung wird grundsätzlich an den Ort der Lieferung oder sonstigen Leistung gebunden (§ 3a UStG).
+VAT-INTL-047;Die Leistung wird grundsätzlich am Sitz oder Wohnsitz des Leistungsempfängers ausgeführt (§ 3a UStG).
+VAT-INTL-048;Die Leistung wird grundsätzlich an dem Ort der tatsächlichen Lieferung oder Verschaffung einer Nutzungsteuerpflicht ausgelöst (§ 3a UStG).
+VAT-INTL-049;Die Leistung wird als im Inland ausgeführt behandelt, da die Leistung an ein im Inland ansässiges Unternehmen erbracht wird (§ 3a UStG).
+VAT-INTL-050;Eine Vermittlungsleistung ist grundsätzlich am Wohnsitzort des Leistungsempfängers zu versteuern (§ 3a UStG).
+VAT-INTL-051;Die Vermittlung eines Grundstücks ist eine sonstige Leistung im Zusammenhang mit einem Grundstück und wird innerhalb der EU ausgeführt (§ 3a UStG).
+VAT-INTL-052;Ja, es handelt sich um eine sonstige Leistung im Zusammenhang mit einem Grundstück (§ 3a UStG). Der Leistungsort liegt bei Leistungen im Zusammenhang mit Grundstücken regelmäßig am Ort des Grundstücks (§ 3a Abs. 2 UStG).
+VAT-INTL-053;Ja, dies ist eine sonstige Leistung im Zusammenhang mit einem Grundstück (§ 6 Abs. 2 Z 1 UStG). Die Leistung wird grundsätzlich an der Lieferungsort des Grundstücks erbracht (§ 3a UStG).
+VAT-INTL-054;Eine sonstige Leistung liegt bei der Bereitstellung einer Dienstleistung gegen Entgelt an einen Nichtunternehmer vor (§ 3a UStG).
+VAT-INTL-055;Für solche Leistungen gelten die allgemeinen steuerlichen Voraussetzungen für sonstige Leistungen (§ 3a UStG).
+VAT-INTL-056;Reparaturarbeiten und Gutachten zählen als sonstige Leistung, wenn sie ohne Zusammenhang mit einem sonstigen Hauptvertrag erbracht werden (§ 3a UStG).
+VAT-INTL-057;Die Leistung wird an den steuerlichen Stammort der Unternehmerfirma ausgeführt (§ 3a UStG).
+VAT-INTL-058;Die Leistung wird als innergemeinschaftliche Lieferung behandelt und dem Ort der Lieferung zugeordnet (§ 3a UStG).
+VAT-INTL-059;Die Vermietung gilt als innergemeinschaftliche Lieferung und unterliegt der Umsatzsteuer nach deutschem Recht (§ 3a UStG).
+VAT-INTL-060;Ja, da das Motorboot nur für eine begrenzte Zeit vermietet wird, handelt es sich um eine kurzfristige Vermietung (§ 3 UStG).
+VAT-INTL-061;Die Vermietung wird steuerlich dem Ort zugeordnet, an dem die Leistung erbracht wird (§ 3a UStG).
+VAT-INTL-062;Ja, da die Mietdauer begrenzt ist und der Ort der Nutzung im Ausland liegt, handelt es sich um eine kurzfristige Vermietung (§ 3 Abs. 1 UStG).
+VAT-INTL-063;Die Leistung ist im Inland steuerpflichtig, da der Bestimmungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-064;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-065;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-066;"""Der Leistungsort liegt bei Lieferungen und sonstigen Leistungen grundsätzlich beim Lieferanten oder Leistungserbringer (§ 3a UStG)."
+VAT-INTL-067;Der Leistungsort liegt im Allgemeinen beim Empfänger der Leistung (§ 3a UStG).
+VAT-INTL-068;Die Leistung ist im Inland steuerpflichtig, da der Würstelstand eine unternehmerische Stellung im Inland hat (§ 3a UStG).
+VAT-INTL-069;Die Leistung ist im Inland gelegen, da der Empfänger im Inland ansässig ist (§ 3a UStG).
+VAT-INTL-070;Die Leistung ist nach italienischem Recht steuerpflichtig, da der Unternehmer im Inland für Unternehmenszwecke tätig wird (§ 3 Abs. 2 UStG).
+VAT-INTL-071;Die Leistung ist im Inland steuerpflichtig, da die Ausstellung vorliegt (§ 3a UStG).
+VAT-INTL-072;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Hoheitsgebiet der EU liegt (§ 3a UStG).
+VAT-INTL-073;Die Leistung ist im Inland steuerpflichtig, da Christian eine sonstige Leistung erbringt (§ 3a UStG).
+VAT-INTL-074;Die Leistung ist nach dem allgemeinen Steuerpflichtgrundsatz im Inland steuerpflichtig (§ 1 Abs. 1 UStG).
+VAT-INTL-075;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-076;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-077;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-078;Die Leistung ist im Inland steuerpflichtig, da der Tourist eine sonstige Leistung im Inland erbringt (§ 1 Abs. 1 UStG).
+VAT-INTL-079;Die Leistung ist im Allgemeinen im Inland steuerpflichtig, da der Leistungsort im Regelfall im Inland liegt (§ 3a UStG).
+VAT-INTL-080;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+VAT-INTL-081;Die Leistung ist im Inland steuerpflichtig, da die Beteiligte eine Unternehmerin im Sinne des § 3 UStG ist (§ 1 Abs. 1 UStG).
+VAT-INTL-082;Die Leistung ist im Inland steuerpflichtig, da der Leistungsort im Inland liegt (§ 3a UStG).
+ESTG27-001;Die Ausschüttung ist als Einkünfteverlust abzugsfähig (§ 10 EStG). Die Dividende ist Einkommen (§ 7 Abs. 2 EStG).
+ESTG27-002;Nein, da die Versicherung ausschließlich auf den Erlebensfall abgeschlossen wurde, ist der Unterschiedsbetrag steuerfrei (§ 18 Abs. 1 Z 2 EStG).
+ESTG27-003;Sein steuerpflichtiger Gesamtertrag beträgt 10.000 Euro (§ 27 Abs. 1 EStG).
+ESTG27-004;Der Verlust kann bis zur Höhe des Gewinns ausgewertet werden (§ 10 Abs. 2 EStG). Eine Verrechnung mit Dividenden ist grundsätzlich zulässig (§ 10 Abs. 3 EStG).
+ESTG27-005;Nein, da keine tatsächliche Übergabe erfolgt und die Besteuerungsgrundlagen mitgeteilt werden, handelt es sich um eine innergemeinschaftliche Lieferung (§ 6 Abs. 2 UStG).
+ESTG27-006;Bei der Rückübertragung wird der Wert des Stiftungsvermögens unter Berücksichtigung der Einkommensverwendung bestimmt (§ 2 Abs. 2 StiftenG).
+ESTG27-007;Die Stückzinsen sind als Sonderausgaben abzugsfähig, sofern die Voraussetzungen erfüllt sind (§ 27 EStG).
+ESTG27-008;Der steuerliche Stichtag wird auf den Zeitpunkt des Wegzugs gelegt, sofern dies günstig ist (§ 27 EStG). Das bedeutet, dass die stillen Reserven und der latenten Gewinn steuerpflichtig werden (§ 7 Abs. 1 EStG).
+ESTG27-009;Nein, da die GmbH & Co KG Mitunternehmerschaft ist, zählen die Einkünfte der Körperschaft zum Gesamtbetrag der Einkünfte des Kommanditisten (§ 7 Abs. 2 EStG 1988).
+ESTG27-010;Die Optionsprämie ist als Sonderausgaben abzugsfähig, sofern die Voraussetzungen erfüllt sind (§ 27 Abs. 2 EStG).
+ESTG27-011;Die Schaffung eines Sondervermögens kann steuerpflichtig sein, wenn die Voraussetzungen des § 2 Abs. 1 KStG erfüllt sind (§ 2 Abs. 2 KStG). Da die Voraussetzungen nicht erfüllt sind, handelt es sich nicht um steuerpflichtige Einkünfte aus Kapitalvermögen (§ 2 Abs. 2 KStG).
+ESTG27-012;Nein, da die Voraussetzungen des § 6 Abs. 3 KStG erfüllt sind, gilt die Übertragung als innerbetriebliche Vorgang und ist steuerneutral (§ 6 Abs. 3 KStG).
+ESTG27-013;Nein, da die Agrargemeinschaft eine Körperschaft ist, handelt es sich um Einkünfte aus Land- und Forstwirtschaft, Fischerei und sonstigen landwirtschaftlichen Quellen (§ 22 EStG 1988).
+ESTG27-014;Nein, da die Aktien nicht langfristig gehalten wurden, sind die Zinsen nicht abzugsfähig (§ 18 Abs. 1 Z 3 EStG). Der Verlust ist nur insoweit abzugsfähig, als die Aktien langfristig gehalten wurden (§ 18 Abs. 2 EStG).
+ESTG27-017;(1) Der laufende Ertrag ist als sonstiger Steuersatz unterliegender Einkunftsverlust zu behandeln (§ 27 Abs. 1 EStG).  (2) Die Sonderzahlung ist als sonstiger Steuersatz unterliegender Einkunftsverlust zu behandeln (§ 27 Abs. 2 EStG).  (3) Der Betrag wird dem Grunde gegebenen Anspruch gegenüber zugerechnet (§ 27 Abs. 3 EStG).  (4)
+ESTG27-018;Die Verluste aus der Veräußerung von Wertpapieren sind abzugsfähig (§ 27 Abs. 2 EStG). Die Körperschaftsteuerbefreiung des Investmentfonds führt zu steuerlichen Effekten für die Anteilseigner (§ 22 Abs. 2 KStG). Die Zurechnung von ausschüttungsgleichen Erträgen ist steuerlich bedeutsam (§ 22 Abs. 3 KStG).
+ESTG27-019;Bei Wiedereintritt in das österreichische Besteuerungsrecht wird der Wert der im Ausland angesammelten Aktien zum Zeitpunkt des Wiedereintritts steuerpflichtig (§ 27 EStG 1988).
+ESTG27-020;Nein, da die Voraussetzungen der Steuerbefreiung erfüllt sind, ist die Kapitalabfindung steuerfrei (§ 10 Abs. 1 Z 1 EStG).
+ESTG27-021;Nein, da die Rückzahlung aus einem steuerpflichtigen Ereignis resultiert, handelt es sich um Einkünfte aus Land- und Forstwirtschaft, selbständiger Arbeit oder sonstiger selbständiger Tätigkeit nach § 22 EStG 1988 (§ 27 EStG 1988).
+ESTG27-022;Der Tausch ist steuerbar und unterliegt der Schätzung des Wertes nach § 27 EStG (§ 27 Abs. 2 EStG).
+ESTG27-023;Die Zuwendung ist steuerfrei, da sie im Rahmen einer begünstigten Stiftungszweckverbindung erfolgt (§ 2 Abs. 1 Z 1 UmgrStG).
+ESTG27-024;Nein, da keine Veräußerung der Aktien vorliegt, liegt kein steuerbarer Sachverhalt vor (§ 27 EStG).
+ESTG27-025;Herr Kohl muss den Wert der Aktien im steuerlichen Bewertungsverfahren feststellen und den steuerlichen Wert gegen den tatsächlichen Wert verrechnen (§ 27 EStG 1988).
+ESTG27-026;Nein, da die Versicherung eine langfristige Verpflichtung darstellt, ist der Unterschiedsbetrag steuerfrei (§ 27 Abs. 2 EStG).
+ESTG27-027;Nein, die Übertragung ist steuerneutral im Sinne des UmgrStG (§ 2 UmgrStG).
+ESTG27-028;Die Zuwendung ist steuerbar und unterliegt der Körperschaftsteuer (§ 27 Abs. 1 Z 1 EStG). Der Wert der Hypothek wird dem Wert der Zuwendung zugerechnet (§ 27 Abs. 2 EStG).
+ESTG27-029;Die fixen Zinszahlungen und der Ausgleichsbetrag sind als Sonderausgaben abzugsfähig (§ 27 EStG 1988). Die variablen Zahlungen sind als sonstiger Sonderausgabenbetrag zu behandeln (§ 18 Abs. 1 Z 3 EStG 1988).
+ESTG27-030;Ja, der bereits versteuerte ausschüttungsgleiche Ertrag kann bei der Ermittlung des Veräußerungsgewinns berücksichtigt werden (§ 22 KStG).
+ESTG27-031;Die Einkünfte ergeben sich aus dem Gesamtbetrag der Einkünfte nach Abzug von Sonderausgaben (§ 7 EStG).
+ESTG27-032;Die Ausschüttung ist als sonstiger Steuersatz unterliegendes Einkommen zu behandeln (§ 27 Abs. 4 EStG).
+ESTG27-033;Die Ausgleichszahlung ist als Sonderausgaben abzugsfähig (§ 18 Abs. 2 Z 3 EStG). Die Leihgebühr ist als sonstiger Sonderausgabenabzug zulässig (§ 18 Abs. 3 EStG). Der Verlust ist als Sonderausgabenabzug zulässig, sofern die Voraussetzungen erfüllt sind (§ 18 Abs. 2 Z 3 EStG).
+ESTG27-034;Die Überführung kann unter bestimmten Voraussetzungen steuerfrei sein, sofern die Voraussetzungen des § 27 EStG 1988 erfüllt sind (§ 27 Abs. 2 EStG 1988).
+ESTG27-035;Der Verlust ist innerhalb der gesetzlichen Grenze als Sonderausgaben abzugsfähig (§ 27 EStG).
+ESTG27-036;Nein, da keine Änderung des Stammkapitals erfolgt, ist der Wert der Aktien nicht steuerbar (§ 27 EStG 1988).
+ESTG27-037;Nein, da die Stiftung die Kapitalertragsteuer aus eigenen Mitteln übernimmt, ist die Zuwendung steuerfrei (§ 2 Abs. 2 Z 1 EStG).
+ESTG27-038;Nein, da die Ausschüttung aus einem Betrieb stammt, handelt es sich um Einkünfte aus Gewerbebetrieb nach § 7 EStG (§ 7 Abs. 2 KStG).
+ESTG27-039;Bei Tausch und Veräußerung entfällt der steuerliche Wertfortschritt, sofern die Voraussetzungen erfüllt sind (§ 27 EStG 1988).
+ESTG27-040;Ja, da die Voraussetzungen erfüllt sind, ist die Zuwendung als Substanzauszahlung zu behandeln (§ 2 Abs. 1 Z 1 StiftG).
+EMP-001;Ja, die Nutzung eines Betriebsfahrzeugs zählt zum steuerpflichtigen Einkommen des Arbeitnehmers und ist steuerbar (§ 6 Abs. 2 Z 1 EStG).
+EMP-002;Nein, da keine regelmäßige Leistung besteht, liegt keine Einkünfteerzielung im Sinne des § 18 EStG vor (§ 18 Abs. 1 Z 2 EStG).
+EMP-003;Nein, da der Wert des Fahrzeugs gering ist und ausschließlich betriebliche Zwecke erfüllt, liegt keine steuerpflichtige Leistung vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-004;Nein, da der Koch zur Erfüllung seiner dienstlichen Pflichten aufgefordert wird, liegt keine Leistung gegen Entgelt vor (§ 6 Abs. 1 Z 1 EStG).
+EMP-005;Bezüge sind steuerbar, wenn sie im Zusammenhang mit einer Beschäftigung stehen (§ 22 Abs. 1 Z 1 EStG). Eine freiwillige Abgangsentschädigung ist als sonstiger Bezug steuerpflichtig, da sie im Zusammenhang mit einer Beschäftigung steht (§ 22 Abs. 3 EStG).
+EMP-006;Nein, da das Studium im Zusammenhang mit der beruflichen Tätigkeit steht, liegt keine steuerpflichtige Leistung vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-007;Nein, Taggelder zählen nicht zum steuerpflichtigen Einkommen, da sie als Sonderausgaben abzugsfähig sind (§ 18 Abs. 1 Z 3 EStG).
+EMP-008;Nein, da die Leistung an den Arbeitgeber erbracht wird, ist der Beitrag steuerfrei (§ 6 Abs. 1 Z 19 EStG).
+EMP-009;Nein, da der Arbeitgeber den Vorteil unmittelbar erbringt, liegt keine Einnahme des Mitarbeiters vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-010;Nein, da keine gesetzliche Grundlage besteht, ist die Prämie als sonstiger Steuersatz unterliegend (§ 6 Abs. 2 Z 1 EStG).
+EMP-011;Nein, da der Arbeitnehmer keine sonstigen Leistungen erhält, ist die Entschädigung steuerfrei (§ 10 Abs. 1 KStG).
+EMP-012;Nein, da die Uniformen zur Erfüllung eines Dienstvertrags dienen, liegt keine steuerpflichtige Einkünfteerzielung vor (§ 10 Abs. 1 KStG).
+EMP-013;Nein, da keine vertragliche Verpflichtung besteht, liegt ein sonstiger Leistungsaustausch vor (§ 12 Abs. 2 EStG).
+EMP-014;Nein, da der Mechaniker keine Leistung gegen Entgelt erbringt, liegt kein steuerbarer Vorgang vor (§ 3 Abs. 1 UStG).
+EMP-015;Nein, da der Arbeitgeber die Vorsteuer abzugsfähig ist, entfällt die steuerliche Beteiligung der Angestellten (§ 6 Abs. 2 Z 1 UStG).
+EMP-016;Nein, da keine Leistung gegen Entgelt erbracht wird, handelt es sich nicht um Arbeitseinkünfte (§ 22 Abs. 1 Z 1 EStG).
+EMP-017;Nein, da der Arbeitgeber die Kosten trägt, liegt keine Einnahme des Mitarbeiters vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-018;Nein, die Pension zählt weiterhin zum Arbeitseinkommen, da der Versicherungsbeitrag aufgrund einer gesetzlichen Verpflichtung geleistet wurde (§ 25 Abs. 2 EStG).
+EMP-019;Nein, da der Arbeitgeber den Vorteil ausdrücklich gestattet und der Techniker keine sonstigen Voraussetzungen erfüllt, liegt keine steuerpflichtige Leistung vor (§ 25 Abs. 1 Z 1 EStG).
+EMP-020;Nein, der Betrag wird als Sonderausgaben abzugsfähig gemäß § 18 Abs. 1 Z 3 EStG behandelt (§ 12 Abs. 2 EStG).
+EMP-021;Bestimmte Voraussetzungen ergeben eine steuerliche Abzugsfähigkeit (§ 18 Abs. 1 Z 2 EStG).
+EMP-022;Ja, solche Leistungen zählen zum Einkommen des Begünstigten (§ 18 Abs. 1 Z 2 EStG).
+EMP-023;Nein, Krankengeld ist steuerfrei (§ 33 Abs. 4 Z 1 EStG).
+EMP-024;Nein, Begünstigungen im Unterstützungsrecht zählen nicht zum Arbeitslohn (§ 18 Abs. 1 Z 2 EStG).
+EMP-025;Bei Versorgungsbezügen handelt es sich um sonstige Leistungen, die als Arbeitslohn gelten, wenn sie im Zusammenhang mit einer betrieblichen Leistung erbracht werden (§ 19 Abs. 1 Z 2 EStG).
+EMP-026;Nein, die Leistungen sind nur bis zu einem bestimmten Betrag steuerpflichtig (§ 18 Abs. 1 Z 2 EStG).
+EMP-027;Die Auszahlungen werden als sonstiger Steuersatz unterworfen und mit einem Steuersatz von 22 % besteuert (§ 22 Abs. 1 Z 2 EStG).
+EMP-028;Nein, solche Anteile sind steuerfrei, da sie dem steuerlichen Bewertungsstichtag vorangegangen sind (§ 10 Abs. 3 Z 1 EStG).
+EMP-029;Der steuerpflichtige Teil ergibt sich aus dem Wert der Leistung ohne steuerfreie Bestandteile (§ 18 Abs. 3 Z 1 EStG).
+EMP-030;Nein, da die Stiftung ausschließlich betriebliche Zwecke verfolgt, sind die Zahlungen steuerfrei (§ 18 Abs. 3 Z 2 EStG).
+EMP-031;Nein, da keine Leistung gegen Entgelt erbracht wird, liegt kein Arbeitslohn vor (§ 7 Abs. 1 Z 2 EStG).
+EMP-032;Die Einkünfte aus sonstiger selbständiger Arbeit werden nach Maßgabe des § 18 EStG bestimmt (§ 19 Abs. 1 EStG).
+EMP-033;Nein, da keine Arbeitsleistung gegen Entgelt besteht, liegt kein Arbeitslohn vor (§ 22 Abs. 1 Z 2 EStG).
+EMP-034;Nein, da keine unternehmerische Tätigkeit vorliegt, handelt es sich um Einkünfte aus Kapitalverkäufen (§ 22 KStG).
+EMP-035;Nein, da keine Arbeitsleistung mehr erbracht wird, handelt es sich nicht um Arbeitslohn (§ 12 Abs. 10 KStG).
+EMP-036;Nein, da keine Gegenleistung besteht, liegt keine Einnahme vor (§ 22 Abs. 1 Z 2 EStG).
+EMP-037;Nein, da keine Beziehung zu einem Arbeitsverhältnis besteht, ist das Einkommensersatzgeld nicht als Arbeitslohn steuerbar (§ 25 EStG 1988).
+EMP-038;Nein, die Versorgungsbezüge aus der Kammer‑Versorgungseinrichtung sind steuerfrei (§ 18 Abs. 1 Z 1 EStG).
+EMP-039;Die Zahlung ist als Sonderausgaben abzugsfähig, sofern die Voraussetzungen erfüllt sind (§ 18 Abs. 1 Z 2 EStG).
+EMP-040;Nein, nur der anteilige Betrag, der aus den Beiträgen des Arbeitgebers stammt, ist steuerpflichtig (§ 18 Abs. 3 Z 2 EStG).
+EMP-041;Nein, der Wert wird nach den Bewertungsvorschriften des Bewertungsgesetzes ermittelt (§ 6 Abs. 2 Z 1 EStG).
+EMP-042;Ja, da der Homeoffice-Gutschein zur Abgeltung eines entstandenen Aufwands dient, ist er steuerfrei (§ 12 Abs. 2 Z 2 UStG).
+EMP-043;Nein, da das Auto ausschließlich betrieblich genutzt wird, liegt kein steuerbarer Sachbezug vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-044;Der Sachbezug beträgt 1% des Wertes des Fahrzeugs, maximal jedoch der tatsächliche Wert (§ 6 Abs. 2 Z 1 EStG).
+EMP-045;Nein, da das Klimaticket steuerfrei ist, liegt kein steuerpflichtiger Arbeitslohn vor (§ 6 Abs. 1 Z 1 EStG).
+EMP-046;Nein, da das Klimaticket als Sachleistung betrachtet wird, wird der Wert des Tickets vom Pendlerpauschale abgezogen (§ 6 Abs. 2 Z 1 EStG).
+EMP-047;Nein, da der Kastenwagen ausschließlich betrieblich genutzt wird, liegt keine Privatverwendung vor (§ 6 Abs. 1 Z 1 UStG).
+EMP-048;Der steuerpflichtige Sachbezug beträgt 1 % des Werts, maximal jedoch 2.000 € jährlich (§ 6 Abs. 1 Z 16 EStG).
+EMP-049;Nein, da die Nutzung nicht eindeutig dem Firmenfahrzeug zugeordnet werden kann, liegt kein steuerbarer Sachbezug vor (§ 6 Abs. 1 Z 27 EStG).
+EMP-050;Nein, der Anspruch auf den Pauschbetrag setzt eine regelmäßige Inanspruchnahme eines Fahrzeuges durch den Arbeitgeber voraus (§ 6 Abs. 2 Z 1 EStG).
+EMP-051;Ja, er kann die Pauschale in Anspruch nehmen, sofern die Voraussetzungen erfüllt sind (§ 6 Abs. 2 Z 1 EStG). Die Pauschale beträgt monatlich 4 Euro (§ 6 Abs. 3 EStG).
+EMP-052;Ja, da die Nutzung eines Verkehrsmittels zumutbar ist, steht Frau B die volle Pauschale zu (§ 6 Abs. 2 Z 1 EStG).
+EMP-053;Der Yogakurs kann unter bestimmten Voraussetzungen als steuerfreie Leistung im Sinne des § 3a UStG qualifizieren, sofern er von einer qualifizierten Körperschaft erbracht wird (§ 3a Abs. 1 UStG).
+EMP-054;Nein, die Nutzung des E-Bikes kann steuerlich relevant sein, wenn der Wert überschritten wird (§ 12 Abs. 2 Z 1 EStG).
+EMP-055;Ja, das kostenlose Aufladen des E-Bikes stellt einen Sachbezug dar, da der Arbeitgeber eine Leistung erbringt (§ 6 Abs. 1 Z 1 EStG).
+EMP-056;Ja, da die Maßnahme der betrieblichen Gesundheitsförderung dient und die Voraussetzungen erfüllt sind, liegt ein steuerfreier Leistungsinhalt vor (§ 3 Abs. 2 UStG).
+EMP-057;Das Homeoffice-Pauschale kann bis zu einem Betrag von 3 Euro pro Tag steuerfrei sein (§ 6 Abs. 2 Z 27 EStG).
+EMP-058;Ja, da die Mitarbeiterin ein betriebliches Fahrzeug privat nutzt, liegt ein steuerbarer Sachbezug vor (§ 6 Abs. 2 Z 1 EStG).
+EMP-059;Nein, da das Elektroauto auch privat genutzt wird, ist ein Privatanteil gegeben und muss besteuert werden (§ 12 Abs. 10 Z 1 EStG).
+EMP-060;Nein, da keine Gegenleistung besteht, liegt kein steuerbarer Sachbezug vor (§ 4c SachbezugsVO).
+EStG-23-001;Bei der regelmäßigen und wiederholten Abgabe von Waren an mehrere Abnehmer liegt ein Gewerbebetrieb vor, da eine unternehmerische Tätigkeit vorliegt (§ 2 Abs. 1 UStG).
+EStG-23-002;Die Einkünfte aus dem Hardware-Verkauf sind als Einkünfte aus Gewerbebetrieb einzustufen, da der IT-Spezialist eine unternehmerische Tätigkeit mit eigenem Risiko und einer beträchtlichen Eigenverantwortung ausübt (§ 1 Abs. 2 EStG).
+EStG-23-003;Nein, da keine unternehmerische Tätigkeit im Sinne des § 18 EStG vorliegt, handelt es sich um sonstige Einkünfte (§ 22 EStG).
+EStG-23-004;Nein, da keine regelmäßige Tätung für Dritte erfolgt und keine ausreichende Selbständigkeit gegeben ist, liegt kein steuerbarer Gewerbebetrieb vor (§ 23 EStG).
+EStG-23-005;Nein, da der Grafiker keine unternehmerische Beteiligung hat und die Leistung ausschließlich gegen Entgelt erbringt, handelt es sich um eine sonstige Leistung gegen Entgelt (§ 3 UStG).
+EStG-23-006;Der Verkauf von Grundstücken kann unter bestimmten Voraussetzungen als private Vermögensverwaltung behandelt werden (§ 6 Abs. 2 Z 1 EStG).
+EStG-23-007;Die Einkünfte sind als Einkünfte aus Gewerbebetrieb einzustufen, da der Weinbauer überwiegend eigenes Produkt verkauft und die sonstigen Waren nur zur Abdeckung des Bedarfs dienen (§ 23 EStG).
+EStG-23-008;Die Einnahmen können als Einkünfte aus Gewerbebetrieb qualifiziert werden, wenn die Voraussetzungen des § 18 EStG erfüllt sind (§ 22 EStG).
+EStG-23-009;Die Schürfung von Kryptowährungen kann unter bestimmten Voraussetzungen als sonstige Leistung gegen Entgelt qualifiziert werden und kann als steuerbarer Umsatz gelten (§ 3 UStG).
+EStG-23-010;Die Tätigkeit kann als Gewerbebetrieb qualifiziert werden, da der Anleger unternehmerische Züge aufweist und regelmäßig Einnahmen erzielt (§ 18 Abs. 1 Z 2 EStG).
+EStG-23-011;Nein, da keine unternehmerische Tätigkeit im Sinne des § 18 EStG vorliegt, sind die Verluste nicht abzugsfähig (§ 18 Abs. 2 EStG).
+EStG-23-012;Die Einkünfte sind als Einkünfte aus Gewerbebetrieb zu qualifizieren, da der Makler regelmäßig tätig ist und die Einnahmen aus einer unternehmerischen Tätigkeit stammen (§ 23 EStG).
+EStG-23-013;Bei der systematischen und regelmäßigen Veräußerung von Waren liegt ein Gewerbebetrieb vor, da die Voraussetzungen des § 23 EStG erfüllt sind (§ 1 UStG).
+EStG-23-014;Nein, da der Verlag keine eigenständige Leistung erbringt, handelt es sich um sonstige Einkünfte (§ 18 Abs. 2 Z 2 EStG).
+EStG-23-015;Die Tätigkeit kann unter bestimmten Voraussetzungen als private Vermögensverwaltung qualifiziert werden, da der Liebhaber keine unternehmerische Absicht hat und die Einkünfte aus sonstigen Einkünften herrühren (§ 18 Abs. 2 Z 3 EStG).
+EStG-23-016;Nein, da die Vermietung nur geringfügig ist und keine ausreichende Einnahmeerzielung vorliegt, handelt es sich nicht um einen Gewerbebetrieb (§ 23 EStG).
+EStG-23-017;Nein, da der Student keine unternehmerische Tätigkeit im Sinne des § 2 Abs. 1 UStG ausübt, liegt kein steuerbarer Umsatz vor (§ 3 Abs. 1 UStG).
+EStG-23-018;Ja, da die Modeexpertin unternehmerisch tätig ist und regelmäßige Einnahen erzielt, liegt ein Gewerbebetrieb vor (§ 23 EStG).
+EStG-23-019;Die Tätigkeit kann unter bestimmten Voraussetzungen als private Vermögensverwaltung qualifiziert werden, da der Betrieb ausschließlich zur Sicherung des eigenen Einkommens erfolgt (§ 18 Abs. 1 Z 2 EStG).
+EStG-23-020;Die Tätigkeit kann als private Vermögensverwaltung qualifiziert werden, da der Sammler die Lego-Sets ausschließlich für private Zwecke kauft und behält (§ 18 Abs. 1 Z 1 EStG).
+EStG-23-021;Nein, da keine finanzielle Gegenleistung erfolgt, handelt es sich um eine sonstige Leistung (§ 12 Abs. 2 KStG).
+EStG-23-022;Nein, da das Gebäude dem Betrieb zugeordnet ist, handelt es sich um eine Betriebsvermögenverwertung und um ein steuerpflichtiges Einkommen (§ 7 Abs. 1 KStG).
+EStG-23-023;Ja, er kann Vorsteuer abziehen, da die Leistung im Inland gegen Entgelt erbracht wird (§ 3 Abs. 2 UStG).
+EStG-23-024;Nein, der Veräußerungsgewinn ist steuerfrei, sofern die Voraussetzungen erfüllt sind (§ 6 Abs. 1 Z 32 EStG).
+EStG-23-025;Ja, da der Betrieb auf Dauer angelegt ist und die Einnahmen aus der Nutzung des Vermögens fließen, liegt ein Gewerbebetrieb vor (§ 23 EStG).
+EStG-23-026;Nein, da die Kommanditbeteiligung unter bestimmten Voraussetzungen als Betrieb betrieben gilt, liegt ein steuerbarer Gewerbebetrieb vor (§ 7 KStG).
+EStG-23-027;Nein, da keine regelmäßige Geschäftstätigkeit vorliegt, handelt es sich nicht um einen Gewerbebetrieb (§ 23 EStG).
+EStG-23-028;Nein, da der Pkw für unternehmerische Zwecke genutzt wird, handelt es sich um sonstige Leistungen (§ 12 Abs. 2 KStG).
+EStG-23-029;Nein, die gesetzliche Definition ist nur ein Indiz für die Betriebseinrichtung (§ 23 Z 2 EStG).
+EStG-23-030;Nein, da keine unternehmerische Tätigkeit vorliegt, ist der Gewinnanteil steuerpflichtig als sonstiger Einkünfte (§ 22 EStG).
+EStG-23-031;Nein, da keine Rechtspersönlichkeit besteht, ist der Unternehmer nicht steuerpflichtig (§ 1 Abs. 2 UStG).
+EStG-23-032;Nein, nur der Komplementär ist zur Steuerpflicht verpflichtet, sofern die Voraussetzungen erfüllt sind (§ 23 KStG).
+EStG-23-033;Nein, die Fotografie ist ein Gewerbe im Sinne des Gewerbeordnung (§ 2 GewO).
+EStG-23-034;Nein, da der Berater eine Lieferung erbringt, liegt ein steuerbarer Umsatz vor (§ 3 UStG).
+EStG-23-035;Nein, da die GmbH & Co KG keine Körperschaft ist, ist der Gewinnanteil nicht steuerbar (§ 23 KStG).
+EStG-23-036;Nein, da keine tatsächliche Leistung erbracht wird, liegt kein steuerbarer Vorgang vor (§ 3 UStG).
+EStG-23-037;Nein, da der Journalist Dienstleistungen erbringt, liegt ein Gewerbebetrieb vor (§ 2 Abs. 1 UStG).
+EStG-23-038;Nein, eine unternehmerische Tätigkeit im Sinne des § 2 Abs. 1 UStG liegt nur bei bestimmten Leistungen vor (§ 3 UStG).
+EStG-23-039;Ja, da der Arzt seine Leistungen gegen Entgelt erbringt und dies regelmäßig und unternehmerisch tut, liegen Einkünfte aus Gewerbebetrieb vor (§ 1 Abs. 1 Z 2 EStG).
+EStG-23-040;Nein, der Verkauf von Waren ist nicht Bestandteil der landwirtschaftlichen Betriebstätigkeit und unterliegt dem Umsatzsteuersatz für sonstige Leistungen (§ 3a UStG).
+EStG-23-041;Nein, da die Immobilienveräußerung nicht wiederholt erfolgt und keine unternehmerische Tätigkeit besteht, handelt es sich um Einkünfte aus sonstigen Einkünften (§ 22 Abs. 1 UmgrStG).
+EStG-23-042;Nein, da der Klettergarten nicht zur Nutzung des Grundstücks dient, sondern eigenständig bewirtet wird, liegt ein sonstiger steuerbarer Vermögensverlust vor (§ 10 Abs. 3 EStG).
+EStG-23-043;Nein, da die tatsächliche Leistung nicht medizinisch ist, liegt keine freiberufliche Leistung vor (§ 2 Abs. 2 UStG).
+EStG-23-044;Nein, da die Kommanditistin an der Körperschaft beteiligt ist, handelt es sich um Einkünfte aus Mitwirkung an einer Körperschaft (§ 7 Abs. 2 KStG).
+EStG-23-045;Nein, da keine unternehmerische Absicht besteht und die Einnahmen gering sind, liegt kein steuerbarer Sachverhalt vor (§ 23 EStG).
+EStG-23-046;Die Beteiligung ist als Einkünfte aus Kapitalvermögen zu qualifizieren, da keine unternehmerische Beteiligung vorliegt (§ 7 Abs. 2 KStG).
+EStG-23-047;Nein, da die OG keine rechtsfähige Körperschaft ist, handelt es sich um Einkünfte einer natürlichen Person (§ 7 EStG).
+EStG-23-048;Ja, da der Hobbygärtner sein Produkt öffentlich anbietet und regelmäßig beliefert, liegt eine Beteiligung am allgemeinen Wirtschaftsverkehr vor (§ 2 Abs. 1 UStG).
+EStG-23-049;Nein, da die T-Shirts ausschließlich im Zusammenhang mit der künstlerischen Tätigkeit verkauft werden, handelt es sich um eine sonstige Leistung im steuerlichen Sinne (§ 3a UStG).
+EStG-23-050;Nein, da der Unternehmer die Leistungen nach Vorgabe erbringt, liegt keine eigenständige unternehmerische Tätigkeit vor (§ 23 EStG).
+EStG-23-051;Nein, eine einmalige Veranstaltung kann unter bestimmten Voraussetzungen als unternehmerische Tätigkeit gelten (§ 2 Abs. 2 UStG).
+EStG-23-052;Die Einnahmen aus dem professionellen E-Sport und dem Betrieb eines Twitch-Kanals können als Einkünfte aus Gewerbebetrieb qualifiziert werden, sofern die Voraussetzungen erfüllt sind (§ 18 Abs. 1 Z 2 EStG).
+EStG-23-053;Nein, da die Sockenherstellung nur zur Eigenversorgung erfolgt und keine regelmäßige Tätigkeit besteht, handelt es sich nicht um ein Gewerbe (§ 2 Abs. 1 UStG).
+EStG-23-054;Ja, da der Gesellschafter tatsächlich als Arbeitnehmer tätig wird, liegen die Voraussetzungen für die steuerliche Anerkennung der Einkünfte aus nichtselbstständiger Arbeit vor (§ 10 Abs. 1 EStG).
+EStG-23-055;Nein, da keine unternehmerische Tätigkeit mehr besteht, handelt es sich nicht um Einkünfte aus Gewerbebetrieb (§ 12 Abs. 2 EStG).
+EStG-23-056;Die Haltung von Tieren kann unter bestimmten Voraussetzungen als land- und forstwirtschaftliche Betriebstätte qualifiziert werden (§ 6 Abs. 2 Z 1 EStG).
+EStG-23-057;Nein, da keine Schaffung eines geistigen Eigentums vorliegt, handelt es sich um ein sonstiges Einkommen (§ 18 Abs. 1 Z 2 EStG).
+EStG-23-058;Nein, da der Nachhilfelehrer keine pädagogische Tätigkeit mehr ausübt, liegt kein Gewerbebetrieb mehr vor (§ 2 Abs. 1 UStG).
+EStG-23-059;Nein, da keine regelmäßige Tätigkeit im Sinne des § 12 EStG vorliegt, handelt es sich nicht um einen steuerpflichtigen Gewerbebetrieb (§ 23 EStG).
+EStG-23-060;Nein, da der Kommanditist unternehmerisch tätig war, ist der Gewinn steuerpflichtig (§ 7 KStG).
+SELF-001;Für die ersten 10 Überstunden pro Monat besteht ein Steuerfreibetrag (§ 6 Abs. 2 Z 1 EStG).
+SELF-002;Die gesetzliche Bemessungsgrundlage für bestimmte Einkünfte wurde für 2026 angepasst (§ 22 Abs. 1 BewG).
+SELF-003;Die Anpassung der Grenzbeträge kann den Anspruch auf den Verkehrsabsetzbetrag erhöhen oder vermindern (§ 18 Abs. 3 Z 1 EStG).
+SELF-004;Die Befreiung gilt bis zu einem Jahresumsatz von 17.000 Euro (§ 6 Abs. 1 UStG).
+SELF-005;Der Familienbonus Plus beträgt ab 2025 bis zu 1.500 Euro pro Kind jährlich (§ 33 Abs. 4 Z 1 EStG).
+SELF-006;Das Gesetz regelt unter anderem die steuerliche Begünstigung von Spenden an begünstigte Organisationen (§ 1 GNeRUG).
+SELF-007;Gewinne aus der Veräußerung von Kryptowährungen zählen zu den sonstigen Einkünften und sind steuerpflichtig (§ 22 Abs. 1 Z 21 EStG).
+SELF-008;Nein, der Steuersatz bleibt unverändert (§ 22 KStG).
+SELF-009;Für den IFB müssen ökologische Investitionen getätigt werden, die zu einer nachhaltigen Steuerbegünstigung führen (§ 10 Abs. 3 EStG).
+SELF-010;Der Sachbezug beträgt bis zu 500 Euro jährlich oder bis zur tatsächlichen Nutzung (§ 12 Abs. 10 KStG).
+SELF-011;Die Einkünfte ergeben sich aus dem Gesamtbetrag der Einnahmen nach Abzug der Sonderausgaben (§ 7 EStG).
+SELF-012;Die Gruppenbesteuerung wurde vereinfacht und die Gruppenmitglieder wurden automatisch gebildet (§ 9 Abs. 3 KStG).
+SELF-013;Das UmgrStG regelt die steuerliche Behandlung von Umgründungen wie Verschmelzungen und Einbringungen (§ 1 UmgrStG).
+SELF-014;Die Hauptleistungspflicht liegt bei der Lieferung beweglicher Sachen (§ 1 Abs. 1 Z 1 UStG).
+SELF-015;Bestimmte öffentliche Urkunden und Begünstigungen unterliegen der Gebührenpflicht, wie etwa Geburtsurkunden oder Begünstigungen im Bereich des Umgründungssteuergesetzes (§ 1 GebG).
+SELF-016;Die Steuerpflicht für Spekulationsgeschäfte wurde abgeschafft (§ 22 Abs. 2 UmgrStG).
+SELF-017;Die Versicherung ist Steuerschuldner, sofern sie nicht zur Aussetzung aufgefordert wird (§ 28 Abs. 2 Z 1 VStG).
+SELF-018;Der Einheitswert wird für die Ermittlung des Stichtagswertes bei bestimmten Umgründungen weiter verwendet (§ 2 Abs. 2 UmgrStG).
+SELF-019;Die Wiederaufnahme des Verfahrens ist die Rückkehr zur mündlichen Verhandlung nach rechtskräftiger Entscheidung (§ 115 BAO).
+SELF-020;"""Beitragsfreie Bezüge"" sind bestimmte Einkünfte, die vom Beitragsgebot ausgenommen sind, wie z.B. Familienbeihilfe oder Unterhaltsvorschuss (§ 2 ASVG)."
+SELF-021;Das KStG regelt die steuerliche Behandlung von Körperschaften und sonstigen Personenvereinigungen (§ 1 KStG).
+SELF-022;Der DB beträgt aktuell 0,3 % der Einkünfte, maximal jedoch 1.500 Euro jährlich (§ 2 FLAGG-FG).
+SELF-023;Nein, die NoVA entfällt bei innergemeinschaftlichen Lieferungen (§ 6 Abs. 1 Z 1 UStG).
+SELF-024;Bei einem Werkvertrag wird ein konkretes Ergebnis geschuldet, während bei einem Dienstvertrag die Leistung unbestimmt ist (§ 584 BGB).
+SELF-025;Das Budgetbegleitgesetz 2001 hat die Bemessungsgrundlage für die Grunderwerbsteuer an die tatsächliche Wertentwicklung anpassen (§ 2 Abs. 1 UmgrStG).
+SELF-026;Die Vortragfähigkeit ermöglicht den Verlustausgleich mit Einkünften aus anderen Jahren (§ 10 EStG).
+SELF-027;Die Versicherungspflichtgrenze beträgt für Neugründungen ein Viertel des Jahresumsatzes (§ 10 Abs. 2 EStG).
+SELF-028;Der Kindermehrbetrag erhöht den Alleinverdienerabsetzbetrag bei Einzelveranngern mit Kindern (§ 33 Abs. 4 Z 1 EStG).
+SELF-029;Die degressive Abschreibung ermöglicht eine höhere Abschreibung im Anschaffungsjahr und eine geringere im Folgejahr (§ 10 Abs. 3 EStG).
+SELF-030;Der Teuerungsabsetzbetrag ist ein Steuerabsetzbetrag für Steuerpflichtige mit Einkünften aus Land- und Forstwirtschaft, selbständiger Arbeit oder Gewerbebetrieb (§ 33 Abs. 4 Z 1 EStG).
+SELF-031;Das Erbschafts- und Schenkungssteuergesetz regelt die steuerliche Behandlung von Erbschaften und Schenkungen (§ 1 EStG).
+SELF-032;Das Zollgesetz regelt die Zollpflichten und die Abgaben im Zollbereich (§ 1 ZollG).
+SELF-033;Die KESt ist eine Steuer auf bestimmte Einkünfte aus Kapitalverwertungen (§ 22 KStG).
+SELF-034;Das Einkommensteuergesetz regelt die Sonderausgabenbeteiligung grundsätzlich in § 18 EStG (§ 18 EStG).
+SELF-035;Die Vergnügungsteuer ist eine Steuer für Unterhaltungsveranstaltungen wie Theateraufführungen oder Kinobesuche (§ 2 VStG).
+SELF-036;Das Kommunalsteuergesetz regelt die Einkommenssteuer für Körperschaften und Personen mit Geschäftsitz im Ausland (§ 1 KStG).
+SELF-037;Die Kapitalertragsteuer wird auf Zinsen im Inland unter bestimmten Voraussetzungen erhoben (§ 22 KStG).
+SELF-038;Der Steuersatz betrug zunächst 25 % und wurde schrittweise abgepuffert (§ 22 KStG).
+SELF-039;"Die ""GmbH light"" ist eine Sonderform der Gruppenbesteuerung, die bestimmten Gruppenmitgliedern steuerliche Begünstigungen bietet (§ 9 KStG)."
+SELF-040;Der Gewinnfreibetrag ist ein steuerlicher Freibetrag für natürliche Personen mit Einkünften aus Land- und Forstwirtschaft, selbständiger Arbeit oder Gewerbebetrieb (§ 10 EStG).
+SELF-041;Einkünfte aus selbstständiger Arbeit sind Einnahfen aus der Ausübung einer selbstständigen beruflichen oder unternehmerischen Tätigkeit (§ 22 EStG).
+SELF-042;Der Gewinn ergibt sich aus den Einnahmen abzüglich der verausgaben- und sonstigen abzugsfähigen Beträge (§ 4 Abs. 1 EStG).
+SELF-043;Einkünfte aus Gewerbebetrieb entstehen aus der Einnahme von Betriebseinnahmen gegen Entgelt (§ 23 EStG).
+SELF-044;Zu den Einkünften aus nichtselbstständiger Arbeit zählen Löhne, Gehälter und sonstige Bezüge (§ 22 EStG).
+SELF-045;Die sachliche Steuerpflicht umfasst alle Einkünfte, sofern keine gesetzliche Befreiung besteht (§ 2 EStG).
+SELF-046;Kosten der Lebensführung sind grundsätzlich nicht abzugsfähig (§ 18 Abs. 1 Z 1 EStG).
+SELF-047;Ein Dienstvertrag ist ein Vertrag, bei dem eine Person gegen Entgelt Leistungen erbringt (§ 1151 ABGB).
+SELF-048;Bei fehlender Entgeltvereinbarung kann ein angemessener Entgeltanspruch geltend gemacht werden (§ 611 BGB).
+SELF-049;Ein Werkvertrag ist eine vertragliche Verpflichtung zur Herstellung einer beweglichen Sache (§ 1165 ABGB).
+SELF-050;Als Dienstnehmer gelten natürliche Personen, die im Rahmen eines Dienstverhältnisses für ein Unternehmerunternehmen tätig sind (§ 4 ASVG).
+SELF-051;Pflichtversicherte sind natürliche Personen, die eine unternehmerische Tätigkeit ausüben (§ 1 GSVG).
+SELF-052;Die Steuerschuld entsteht mit Ablauf des Jahres, in dem die Einkommensgrenze überschritten wird (§ 22 Abs. 1 BAO).
+SELF-053;Die Beteiligten sind zur Offenlegung und Wahrheitserklärung verpflichtet (§ 115 BAO).
+SELF-054;Das Zufluss-Abfluss-Prinzip bestimmt, wann Einkünfte zugeflossen sind und damit steuerpflichtig werden (§ 19 EStG).
+SELF-055;Bestimmte finanzielle Verpflichtungen wie Versicherungsprämien, Kirchenbeiträge oder Nachforderungen gegenüber Behörden zählen zu den Sonderausgaben (§ 18 EStG).
+SELF-056;Bestimmte Einkünfte wie Renten und Kapitaleinkünfte sind von der Steuer befreit (§ 3 EStG).
+SELF-057;Einnahmen sind Zuflüsse gegen Entgelt (§ 15 EStG).
+SELF-058;Die Basispauschalierung ist eine Steuerpauschalierung für Einkünfte aus Land- und Forstwirtschaft, selbständiger Arbeit und sonstigen Einkünften (§ 17 EStG).
+SELF-059;Unbeschränkt steuerpflichtig sind natürliche Personen mit Wohnsitz oder Geschäftsstandort im Inland (§ 1 EStG).
+SELF-060;Der Alleinverdienerabsetzbetrag ist ein Steuerabsetzbetrag für Steuerpflichtige mit mindestens einem Kind, deren Partner nur geringe Einkünfte erzielt (§ 33 EStG i.V.m. § 7).
+SELF-061;Die ordnungsgemäße Führung des Betriebsverzeichnisses und der Rechnungen ist zu beachten (§ 131 BAO).
+SELF-062;§ 1164a ABGB regelt die Sonderregelungen für Arbeitnehmer bei Insolvenz (§ 1164a ABGB).
+SELF-063;Die Entgeltfortzahlung ist als Sonderausgabe abzugsfähig (§ 18 Abs. 1 Z 2 EStG).
+SELF-064;Nein, da keine Entgeltzahlung besteht, besteht keine Sozialversicherungspflicht (§ 2 Abs. 1 Z 2 SGB 4).
+SELF-065;Das Progressionsabgeltungsgesetz regelt die Begünstigung der Steuerpflicht bei steuerpflichtigen Einkünften (§ 10 Abs. 3 EStG).
+SELF-066;Die Sachbezugswerteverordnung definiert die Bemessungsgrundlagen für steuerpflichtige Sachbezüge (§ 1 Sachbezugswerteverordnung).
+SELF-067;Das Ziel der Reform ist die Stärkung des Umweltschutzes und der sozialen Gerechtigkeit durch steuerliche Anreize (§ 1 UmgrStG).
+SELF-068;Die steuerliche Abzugsfähigkeit der Ausgaben für ein betriebliches Homeoffice wurde geregelt (§ 18 Abs. 3 Z 2 EStG).
+SELF-069;Die Digitalsteuer ist eine Steuer auf bestimmte digitale Leistungen wie Online-Warenverkäufe (§ 1 UStG).
+SELF-070;Eine Sicherheitseinrichtung ist erforderlich, wenn die Registrierkasse zur ordnungsgemäßen Mitwirkung an der Besteuerungsmaßnahme bestimmt wird (§ 33a UStG).
+SELF-071;Die Voraussetzungen für die Abzugsfähigkeit wurden verschärft (§ 10 Abs. 3 EStG).
+SELF-072;Der Alleinverdienerabsetzbetrag beträgt ab 2025 bis zu 494 Euro pro Jahr für ein Kind (§ 33 Abs. 4 Z 1 EStG).
+SELF-073;Ja, bestimmte Photovoltaikanlagen sind befristet von der Umsatzsteuer befreit (§ 6 Abs. 1 Z 27 UStG).
+SELF-074;Die Steuerreform beinhaltet eine Erhöhung der Kleinunternehmerfreibeträge ab dem Jahr 2024 (§ 6 Abs. 2 UStG).
+SELF-075;Das KMU-Förderungsgesetz sieht steuerliche Begünstigungen für kleine und mittlere Unternehmen vor (§ 1 KMuFG).
+SELF-076;Die Investitionsprämie ist ein steuerlicher Abgabenfreibetrag für bestimmte Investitionen (§ 10 Abs. 3 EStG).
+SELF-077;Trinkgelder zählen grundsätzlich zum steuerpflichtigen Einkommen der Arbeitnehmer (§ 18 Abs. 1 Z 2 EStG).
+SELF-078;Die Pauschalen wurden mehrfach angepasst und erhöht (§ 6 Abs. 3 Z 1 EStG).
+SELF-079;Der Eingangssteuersatz der Lohnsteuer beträgt seit 2020 allgemein 20 % (§ 33 Abs. 4 Z 1 EStG).
+SELF-080;Die Jahressteuererklärung ist die Mitwirkungspflicht des Steuerpflichtigen gegenüber der Abgabenbehörde (§ 115 BAO).
+SELF-081;Die Bemessungsgrundlage wurde neu geregelt und ist nach dem Wert der Liegenschaft zu ermitteln (§ 2 UStG).
+SELF-082;Das Abgabenänderungsgesetz enthält verschiedene steuerliche Neuerungen und Änderungen, insbesondere im Bereich des Stichtagsregimes und des Gewinnfreibetrags (§ 1 AbgÄG 2014).
