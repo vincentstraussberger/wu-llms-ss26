@@ -2,18 +2,17 @@
 citation_check.py - Stage 2: systematic citation validity check
 (WU LLMs SS26, Team 11)
 
-Part of the Team 11 Stage 3 evaluation pipeline:
+Part of the two-script evaluation pipeline for REPORT_v2.md:
   Stage 1 - evaluation.py        (broad proxy evaluation, all 643 Qs)
   Stage 2 - citation_check.py    (systematic citation validity, all 643 Qs)
-  Stage 3 - evaluation_gold.py   (final gold-label evaluation, 60 Qs)
-  Stage 4 - visualize_results.py (figures from the final CSVs)
+  Stage 3 - visualize_results.py (figures from the final CSVs)
 Orchestrator: run_all_evaluations.py
 
-Stage 2 of the pipeline is jointly implemented by two scripts:
-  * evaluation.py      - per-question ROUGE-L + top-10 lowest-agreement dump
-  * citation_check.py  - this script; citation-validity existence check (§4.2)
+Note: evaluation_gold.py is NOT part of this pipeline. The course-shared
+EStG-§23 file contains LLM-generated answers and is not a valid reference.
+See REPORT_v2.md §2.1 for the rationale.
 
-Feeds REPORT.md §4.2 ("Citation hallucination - systematic count").
+Feeds REPORT_v2.md §4.2 ("Citation hallucination - systematic count").
 
 Context: evaluation.py (Stage 1) only counts whether an answer contains a §
 symbol (§3.1 of REPORT.md). It cannot tell whether the cited paragraph

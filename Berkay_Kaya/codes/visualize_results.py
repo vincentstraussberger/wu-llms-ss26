@@ -1,35 +1,35 @@
 """
-visualize_results.py - Stage 4: report-ready figures from the final CSVs
+visualize_results.py - Stage 3: report-ready figures from the final CSVs
 (WU LLMs SS26, Team 11)
 
-Part of the Team 11 Stage 3 evaluation pipeline:
+Part of the two-script evaluation pipeline for REPORT_v2.md:
   Stage 1 - evaluation.py        (broad proxy evaluation, all 643 Qs)
   Stage 2 - citation_check.py    (systematic citation validity, all 643 Qs)
-  Stage 3 - evaluation_gold.py   (final gold-label evaluation, 60 Qs)
-  Stage 4 - visualize_results.py (figures from the final CSVs)
+  Stage 3 - visualize_results.py (figures from the final CSVs)
 Orchestrator: run_all_evaluations.py
 
-Reads the CSV outputs produced by Stages 1-3 and writes four PNGs into
+Reads the CSV outputs from Stages 1-2 and writes three PNGs into
 ../results/visualizations/. Every plotted number comes directly from the CSVs
 - no values are hard-coded or manually edited.
 
+Note: fig_gold_results was removed. The course-shared EStG-§23 file contains
+LLM-generated answers (not verified gold), so it is not used as a reference.
+See REPORT_v2.md §2.1 for the rationale.
+
 Figures:
-  * fig_main_results.png        - grouped bar of ROUGE-1 / ROUGE-L / BLEU vs
-                                  the M1 silver reference. ROUGE bars on the
-                                  left axis (0-1), BLEU bar on the right axis
-                                  (0-100). No rescaling: each metric is shown
-                                  on its native scale with explicit axis
-                                  labels.
-  * fig_citation_validity.png   - stacked bar per model showing grounded /
-                                  hallucinated / out-of-scope citation counts.
-  * fig_gold_results.png        - grouped bar of ROUGE-1 / ROUGE-L / BLEU
-                                  against the 60 gold answers. Dual-axis, same
-                                  convention as fig_main_results.
-  * fig_error_profile.png       - error-category profile per model (§4 summary):
-                                  share of the 643 answers that fall into each
-                                  of four deterministic failure categories
-                                  computed from the citation and per-question
-                                  CSVs.
+  * fig_main_results.png      - grouped bar: ROUGE-1 / ROUGE-L / BLEU vs
+                                the M1 silver reference (all 643 Qs).
+                                ROUGE on left axis (0-1), BLEU on right (0-100).
+  * fig_citation_validity.png - stacked bar per model: grounded /
+                                hallucinated / out-of-scope citation counts
+                                (all 643 Qs, all 1 929 parsed citations).
+  * fig_diagnostic_profile.png - diagnostic signal profile per model (§4):
+                                share of the 643 answers in each of four
+                                deterministic diagnostic categories computed
+                                from the citation and per-question CSVs.
+                                Renamed from "error-category profile" because
+                                several categories are diagnostic signals,
+                                not confirmed errors.
 
 Usage:
     python3 visualize_results.py
@@ -164,52 +164,7 @@ def fig_citation_validity():
 
 
 # ---------------------------------------------------------------------------
-# Figure 3 - gold-label evaluation
-# ---------------------------------------------------------------------------
-
-def fig_gold_results():
-    csv = os.path.join(RESULTS_DIR, "evaluation_gold_table.csv")
-    df = pd.read_csv(csv).set_index("model").reindex(MODEL_ORDER)
-
-    fig, ax1 = plt.subplots(figsize=(8, 4.5))
-    ax2 = ax1.twinx()
-
-    x = np.arange(len(df))
-    width = 0.25
-
-    ax1.bar(x - width, df["rouge1_vs_gold"], width,
-            color=C_ROUGE1, label="ROUGE-1")
-    ax1.bar(x,         df["rougeL_vs_gold"], width,
-            color=C_ROUGEL, label="ROUGE-L")
-    ax2.bar(x + width, df["bleu_vs_gold"],   width,
-            color=C_BLEU,   label="BLEU")
-
-    ax1.set_ylabel("ROUGE F-measure (0-1)")
-    ax2.set_ylabel("BLEU (0-100)")
-    # Gold scores are small; keep ROUGE axis at 0-1 for comparability with
-    # fig_main_results, and give BLEU a tighter ceiling to keep the bar visible.
-    ax1.set_ylim(0, 1.05)
-    bleu_max = max(df["bleu_vs_gold"].max() * 1.3, 5.0)
-    ax2.set_ylim(0, bleu_max)
-    ax1.set_xticks(x)
-    ax1.set_xticklabels(_display_labels(df.index), fontsize=9)
-    ax1.set_title(
-        "Stage 3 - Gold-label evaluation (60 EStG-§-23 Qs)"
-    )
-
-    h1, l1 = ax1.get_legend_handles_labels()
-    h2, l2 = ax2.get_legend_handles_labels()
-    ax1.legend(h1 + h2, l1 + l2, loc="upper right", fontsize=9)
-
-    fig.tight_layout()
-    out = os.path.join(FIG_DIR, "fig_gold_results.png")
-    fig.savefig(out, dpi=150)
-    plt.close(fig)
-    print(f"  wrote {out}")
-
-
-# ---------------------------------------------------------------------------
-# Figure 4 - error-category profile per model
+# Figure 3 - diagnostic signal profile per model
 # ---------------------------------------------------------------------------
 #
 # Four deterministic categories, each expressed as a share of the 643 answers
@@ -284,7 +239,7 @@ def _compute_error_profile():
     ).reindex(MODEL_ORDER)
 
 
-def fig_error_profile():
+def fig_diagnostic_profile():
     profile = _compute_error_profile()
 
     fig, ax = plt.subplots(figsize=(10, 5))
@@ -329,13 +284,13 @@ def fig_error_profile():
     ax.set_xticks(x)
     ax.set_xticklabels(ERROR_CATEGORIES, fontsize=9)
     ax.set_title(
-        "Error-category profile per model (§4 summary, all 643 Qs)"
+        "Diagnostic signal profile per model (§4, all 643 Qs)"
     )
     ax.legend(loc="upper right", fontsize=9)
     ax.grid(axis="y", linestyle=":", alpha=0.5)
 
     fig.tight_layout()
-    out = os.path.join(FIG_DIR, "fig_error_profile.png")
+    out = os.path.join(FIG_DIR, "fig_diagnostic_profile.png")
     fig.savefig(out, dpi=150)
     plt.close(fig)
 
@@ -355,11 +310,10 @@ def fig_error_profile():
 # ---------------------------------------------------------------------------
 
 def main():
-    print("Stage 4 - writing figures to", FIG_DIR)
+    print("Stage 3 - writing figures to", FIG_DIR)
     fig_main_results()
     fig_citation_validity()
-    fig_gold_results()
-    fig_error_profile()
+    fig_diagnostic_profile()
     print("done.")
 
 

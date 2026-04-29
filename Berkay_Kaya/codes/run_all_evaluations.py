@@ -2,11 +2,14 @@
 run_all_evaluations.py - Orchestrator for the Stage 3 evaluation pipeline
 (WU LLMs SS26, Team 11)
 
-Runs the four stages in order:
+Runs the three stages in order:
   Stage 1 - evaluation.py        (broad proxy evaluation, all 643 Qs)
   Stage 2 - citation_check.py    (systematic citation validity, all 643 Qs)
-  Stage 3 - evaluation_gold.py   (final gold-label evaluation, 60 Qs)
-  Stage 4 - visualize_results.py (figures from the final CSVs)
+  Stage 3 - visualize_results.py (figures from the final CSVs)
+
+Note: evaluation_gold.py is NOT run here. The course-shared EStG-§23 file
+contains LLM-generated answers and is not used as a reference standard.
+See REPORT_v2.md §2.1 for the rationale.
 
 Usage:
     python3 run_all_evaluations.py
@@ -24,8 +27,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 PIPELINE = [
     ("Stage 1 - broad proxy evaluation",        "evaluation.py"),
     ("Stage 2 - citation validity check",       "citation_check.py"),
-    ("Stage 3 - gold-label evaluation",         "evaluation_gold.py"),
-    ("Stage 4 - figures from the final CSVs",   "visualize_results.py"),
+    ("Stage 3 - figures from the final CSVs",   "visualize_results.py"),
 ]
 
 

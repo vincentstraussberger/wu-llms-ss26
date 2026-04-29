@@ -1,26 +1,21 @@
 """
-evaluation.py - Stage 1: broad proxy evaluation
-(WU LLMs SS26, Team 11)
+evaluation.py - Stage 1: broad proxy evaluation (WU LLMs SS26, Team 11)
 
-Part of the Team 11 Stage 3 evaluation pipeline:
-  Stage 1 - evaluation.py        (broad proxy evaluation, all 643 Qs)
-  Stage 2 - citation_check.py    (systematic citation validity, all 643 Qs)
-  Stage 3 - evaluation_gold.py   (final gold-label evaluation, 60 Qs)
-  Stage 4 - visualize_results.py (figures from the final CSVs)
-Orchestrator: run_all_evaluations.py
+Part of the two-script evaluation pipeline for REPORT_v2.md:
+  Script 1 - evaluation.py     (proxy evaluation, all 643 Qs)   → REPORT_v2 §3
+  Script 2 - citation_check.py (citation validity, all 643 Qs)  → REPORT_v2 §4.2
 
-Feeds REPORT.md §3 (broad proxy evaluation) and part of §4 (error analysis).
-Stage 2 is jointly implemented: the per-question ROUGE-L matrix and the top-10
-lowest-agreement dump produced here feed the qualitative analysis in REPORT.md
-§4.1 / §4.3 / §4.4, and citation_check.py adds the systematic citation
-validity check used in §4.2.
+No verified gold answers exist for this dataset. A course-shared EStG-§23
+file contains LLM-generated answers (not human-written), so it is not used
+as a reference. The evaluation relies on two complementary reference-free or
+proxy methods, both covering all 643 questions:
+  1. Proxy similarity: ROUGE/BLEU of each model against Model 1 as silver ref.
+  2. Citation validity: citation_check.py — checks whether cited § numbers
+     actually exist in the named law's PDF (no reference model required).
 
-Goal: Evaluate the 3 models (API / Fine-tuned / RAG) on all 643 Austrian tax
-questions using Model 1 (LLaMA-3.3-70B via Groq) as a silver / pseudo-reference.
-Gold labels exist for 60 EStG-§-23 questions but are evaluated separately by
-evaluation_gold.py (Appendix). Citation validity (whether cited § numbers
-actually exist in the named law's PDF) is checked separately by
-citation_check.py (REPORT.md §4.2).
+Goal: Compute ROUGE, BLEU, and intrinsic stats for all 643 questions using
+Model 1 (LLaMA-3.3-70B via Groq) as a silver / pseudo-reference, and produce
+the per-question ROUGE-L matrix that feeds the §4 error-analysis ranking.
 
 Citation metric note: the `§`-count and `% answers with §` columns in the main
 table are a *crude existence-of-symbol* check (§3.1 of REPORT.md). They count
